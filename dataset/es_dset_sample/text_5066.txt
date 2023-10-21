@@ -1,0 +1,37 @@
+Dr. Mateo Ruiz - Valdeperas Canal Difusión : Carmen Satori Cossi Laquemana , de 23 años , falleció inesperadamente el 26 de enero de 2022 . Carmen había publicado en su perfil de Facebook una foto mostrando que recibió una dosis de la V. C - 19 el 10 de agosto de 2021 . Fuente : ENLACE UNO Fuente : ENLACE DOS Recopilación de casos que han presentado efectos adversos o muertes posteriores a la " inyección " . https :// t . me / EFECTOSADVERSOS1   El ciudadano borrego medio es un ser inculto , desinformado , sumiso y obediente que no piensa por sí mismo , sino que siempre piensa según lo que les dice la élite de banqueros mundialistas ( EL GRAN HERMANO ) a través de sus medios de comunicación : - PRIMAVERA DE 2020 : Confinarse , quedarse en casa y la mascarilla salvan vidas . La Hidroxicloroquina mata . - VERANO DE 2020 : Viva Black Lives Matter . Hay que echar al malo de Trump que no ha creado ninguna guerra . - AÑO 2021 : La vacuna eugenésica salva vidas . La Hidroxicloroquina sigue siendo mala y mata . - AÑO 2022 : Ucrania buena y d 
+
+Binary Class: Conspiracy
+
+Author: gold_label
+F: sus medios de comunicación [130, 134]
+A: la élite de banqueros mundialistas ( EL GRAN HERMANO ) [117, 127]
+P: Dr. Mateo Ruiz - Valdeperas [0, 5]
+V: Carmen [8, 9]
+V: Carmen Satori Cossi Laquemana [8, 12]
+E: falleció inesperadamente [17, 19]
+E: efectos adversos [68, 70]
+E: muertes posteriores a la " inyección " [71, 78]
+
+Author: MONTSE
+F: sus medios de comunicación [130, 134]
+A: EL GRAN HERMANO [123, 126]
+A: la élite de banqueros mundialistas [117, 122]
+P: Dr. Mateo Ruiz - Valdeperas [0, 5]
+V: Carmen Satori Cossi Laquemana [8, 12]
+V: El ciudadano borrego medio [87, 91]
+V: Carmen [8, 9]
+E: efectos adversos [68, 70]
+E: muertes [71, 72]
+E: falleció inesperadamente [17, 19]
+
+Author: LAURA
+F: El ciudadano borrego medio [87, 91]
+F: sus medios de comunicación [130, 134]
+A: la élite de banqueros mundialistas ( EL GRAN HERMANO ) [117, 127]
+P: Dr. Mateo Ruiz - Valdeperas [0, 5]
+V: Carmen [8, 9]
+V: Carmen Satori Cossi Laquemana [8, 12]
+E: falleció inesperadamente [17, 19]
+E: efectos adversos [68, 70]
+E: muertes posteriores a la " inyección " [71, 78]
+

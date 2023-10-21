@@ -1,0 +1,23 @@
+The # AlexJonesShow LIVE : Red Alert Emergency Broadcast ! Top Scientists Around The World Confirm Covid - 19 Vaccines Are Sophisticated Bioweapons   Watch & Share : https :// freeworldnews . tv / channel / the - alex - jones - show   Call - In Line : ( 877 ) 789 - 4475 | Listen Line : 605 - 562 - 6325   Sign Up For Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 637 - 4788   Limited Supply Flash Sale : https :// ifw . io / cd2197 
+
+Binary Class: Conspiracy
+
+Author: gold_label
+P: alex - jones [38, 41]
+P: AlexJonesShow [2, 3]
+P: Top Scientists Around The World Confirm [10, 16]
+P: freeworldnews [30, 31]
+
+Author: DAVID
+P: alex - jones [38, 41]
+P: AlexJonesShow [2, 3]
+P: Top Scientists Around The World Confirm [10, 16]
+P: freeworldnews [30, 31]
+
+Author: francesca
+P: Top Scientists Around The World [10, 15]
+P: alex - jones [38, 41]
+P: freeworldnews [30, 31]
+P: AlexJonesShow [2, 3]
+E: Covid - 19 Vaccines Are Sophisticated Bioweapons [16, 23]
+

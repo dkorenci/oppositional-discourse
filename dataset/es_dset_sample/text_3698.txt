@@ -1,0 +1,19 @@
+  El fiscal de la denuncia contra el " periodista " José Juan Grana corrige al juez de instrucción y dice que es FLAGRANTE el delito de odio y discriminación contra los no vacunados lo redactado en su artículo . El de las " ratitas " ¿ Recuerdas ? 
+
+Binary Class: Critical
+
+Author: gold_label
+F: el " periodista " José Juan Grana [7, 14]
+V: los no vacunados [31, 34]
+
+Author: LAURA
+F: el " periodista " José Juan Grana [7, 14]
+P: El fiscal de la denuncia contra el " periodista " José Juan Grana [1, 14]
+V: los no vacunados [31, 34]
+E: el delito de odio [24, 28]
+E: discriminación [29, 30]
+
+Author: MONTSE
+F: el " periodista " José Juan Grana [7, 14]
+V: los no vacunados [31, 34]
+

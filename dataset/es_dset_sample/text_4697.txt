@@ -1,0 +1,55 @@
+  Testimonio QUE TODO EL MUNDO SEPA LO QUE LA VACUNA LE HIZO A MI SOBRINA Martina Luján Pérez una nena de 14 años sana , sin ningún tipo de patologías ni antecedentes . El día martes 23 de noviembre de 2021 se dio su segunda dosis de la vacuna Pfizer . Al salir del vacunatorio , regresando a su casa , se desmayó en el viaje . De urgencia fue llevada a la clínica donde fue asistida , reaccionó con varias convulsiones . Su estado es una encefalitis aguda / GRAVE . Esto causa que su cerebro esté inflamado y es causante de que ella hoy tenga convulsiones , falta de conocimiento , delirios , su cuerpo no reacciona , ve borroso . Ella está en terapia moderada , con oxígeno , suero ( desde donde también se alimenta ) . Al momento , le siguen haciendo estudios con el fin de desinflamarle el cerebro . Queremos que se enteren todos que la vacuna le hizo esto a mi sobrina , que si sale de esto puede quedar con muchas secuelas graves , que le están arruinando la vida como a todos nosotros . Pido por favor que compartan , que no se oculte lo que está pasando para que no le pase a ningún chico más , ya que la Pfizer está siendo colocada en los niños . https :// t . me / InfoVacunas 
+
+Binary Class: Critical
+
+Author: gold_label
+V: Martina Luján Pérez una nena de 14 años sana [16, 25]
+V: MI SOBRINA [14, 16]
+V: los niños [227, 229]
+V: mi sobrina [169, 171]
+E: una encefalitis aguda / GRAVE [87, 92]
+E: su cerebro esté inflamado [96, 100]
+E: delirios [114, 115]
+E: su cuerpo no reacciona [116, 120]
+E: ve borroso [121, 123]
+E: convulsiones [82, 83]
+E: falta de conocimiento [110, 113]
+E: se desmayó [62, 64]
+E: puede quedar con muchas secuelas graves , que le están arruinando la vida [177, 190]
+E: varias convulsiones [81, 83]
+
+Author: MONTSE
+A: Pfizer [222, 223]
+A: Pfizer [50, 51]
+V: Martina Luján Pérez una nena de 14 años sana [16, 25]
+V: MI SOBRINA [14, 16]
+V: los niños [227, 229]
+V: mi sobrina [169, 171]
+V: todos nosotros [192, 194]
+E: convulsiones [82, 83]
+E: se desmayó [62, 64]
+E: convulsiones [108, 109]
+E: falta de conocimiento [110, 113]
+E: una encefalitis aguda / GRAVE [87, 92]
+E: muchas secuelas graves [180, 183]
+E: ve borroso [121, 123]
+E: su cerebro esté inflamado [96, 100]
+E: delirios [114, 115]
+E: su cuerpo no reacciona [116, 120]
+
+Author: LAURA
+V: Martina Luján Pérez [16, 19]
+V: MI SOBRINA [14, 16]
+V: los niños [227, 229]
+V: mi sobrina [169, 171]
+E: una encefalitis aguda / GRAVE [87, 92]
+E: su cerebro esté inflamado [96, 100]
+E: delirios [114, 115]
+E: su cuerpo no reacciona [116, 120]
+E: ve borroso [121, 123]
+E: convulsiones [82, 83]
+E: falta de conocimiento [110, 113]
+E: se desmayó [62, 64]
+E: puede quedar con muchas secuelas graves , que le están arruinando la vida [177, 190]
+E: varias convulsiones [81, 83]
+

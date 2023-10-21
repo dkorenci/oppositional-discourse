@@ -1,0 +1,24 @@
+# AlexJonesShow LIVE : Emergency Alert ! British Gov’t Warns COVID Vaccine - Induced Mutations May Kill 2.6 Billion People   Watch & Share : https :// ifw . io / ec6928   CALL NOW : ( 877 ) 789 - 4475 | Listen Line : 605 - 562 - 6325   Sign Up For Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 637 - 4788   NEW ! Organic Greens Fiber Caps 33 % Off : https :// www . infowarsstore . com / organic - greens - fiber - caps 
+
+Binary Class: Critical
+
+Author: gold_label
+P: AlexJonesShow [1, 2]
+P: infowarsstore [88, 89]
+V: 2.6 Billion People [17, 20]
+E: COVID Vaccine - Induced Mutations May Kill 2.6 Billion People [10, 20]
+
+Author: DAVID
+A: British Gov’t [7, 9]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [88, 89]
+V: 2.6 Billion People [17, 20]
+E: May Kill 2.6 Billion People [15, 20]
+
+Author: francesca
+P: AlexJonesShow [1, 2]
+P: British Gov’t [7, 9]
+P: infowarsstore [88, 89]
+V: 2.6 Billion People [17, 20]
+E: COVID Vaccine - Induced Mutations May Kill 2.6 Billion People [10, 20]
+

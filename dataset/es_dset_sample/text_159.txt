@@ -1,0 +1,41 @@
+Hola grupo , Gracias por recibirme ! Mi nombre es Marco y les voy a contar mi experiencia . Mi amiga Mechi Batoni se vacunó sólo con una dosis de AZ , a la semana la diagnosticaron con Mielitis transversa aguda . Quedó paralizada desde el pecho hacia abajo . Luego de meses internada , empezó una leve recuperación , hoy por lo menos puede andar en silla de ruedas . Hace poco quedó ciega del ojo derecho ; ella sigue luchando con sus 33 años . Otra Amiga de 52 años con 2 dosis de AZ empezó con una especie de herpes sangrante en todo el cuerpo , nadie sabía que le ocurría . Pasó algo tiempo y sufrió una parálisis facial , la llevaron de urgencia al hospital donde le dijeron que estaba todo bien . A la semana sufrió un episodio del tipo ACV ; estaba cenando y quedó mirando un punto fijo sin reaccionar . La internaron de urgencia , se recuperó de ésa parálisis a las horas , le volvieron a decir que estaba bien pero no sabían que tenía . A los dos días murió por trombosis en el cerebro . 
+
+Binary Class: Critical
+
+Author: gold_label
+V: Otra Amiga de 52 años con 2 dosis de AZ [87, 97]
+V: Mi amiga Mechi Batoni [19, 23]
+E: quedó ciega del ojo derecho [73, 78]
+E: murió por trombosis en el cerebro [190, 196]
+E: se vacunó sólo con una dosis de AZ , a la semana la diagnosticaron con Mielitis transversa aguda [23, 41]
+E: ésa parálisis [167, 169]
+E: una especie de herpes sangrante en todo el cuerpo [99, 108]
+E: un episodio del tipo ACV [142, 147]
+E: Quedó paralizada desde el pecho hacia abajo [42, 49]
+E: una parálisis facial [120, 123]
+
+Author: MONTSE
+P: grupo [1, 2]
+V: Mi amiga Mechi Batoni [19, 23]
+V: Otra Amiga de 52 años con 2 dosis de AZ [87, 97]
+E: un episodio del tipo ACV [142, 147]
+E: Quedó paralizada desde el pecho hacia abajo [42, 49]
+E: una parálisis facial [120, 123]
+E: quedó ciega del ojo derecho [73, 78]
+E: se vacunó sólo con una dosis de AZ , a la semana la diagnosticaron con Mielitis transversa aguda [23, 41]
+E: murió por trombosis en el cerebro [190, 196]
+E: ésa parálisis [167, 169]
+E: una especie de herpes sangrante en todo el cuerpo [99, 108]
+
+Author: LAURA
+V: Otra Amiga [87, 89]
+V: Mi amiga Mechi Batoni [19, 23]
+E: ciega del ojo derecho [74, 78]
+E: murió por trombosis en el cerebro [190, 196]
+E: Mielitis transversa aguda [38, 41]
+E: ésa parálisis [167, 169]
+E: una especie de herpes sangrante en todo el cuerpo [99, 108]
+E: un episodio del tipo ACV [142, 147]
+E: Quedó paralizada desde el pecho hacia abajo [42, 49]
+E: una parálisis facial [120, 123]
+

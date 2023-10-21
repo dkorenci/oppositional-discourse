@@ -1,0 +1,16 @@
+  Llamad a este número si os DISCRIMINAN por no estar vacunados , o por no querer mostrar ningún documento médico : 900 307 082 . Es un teléfono oficial del gobierno , ellos mejor que nadie sabrán que hacer ¿ no ?   Primero por supuesto , IDENTIFICAD a la persona que os DISCRIMINA ( DNI o NÚMERO DE FUNCIONARIO ) , y el CIF del local , LAS DOS COSAS .   Después llamáis al 900 307 082 , y pedis que os ayunden con los pasos a seguir , o que os envíen la info a vuestro correo .   Explicáis que en un restaurante ( o cualquier otro lugar al que no te dejen acceder ) te han DISCRIMINADO por ser NEGRO , y te han dicho que si NO ERES BLANCO no puedes comer , que sólo puedes comer si eres BLANCO . Es un DELITO contra tus derechos fundamentales según el artículo 14.1 de la constitución .   Luego , sólo hay que cambiar NEGRO por NO VACUNADO y BLANCO por VACUNADO . Así es es el ABSURDO que estamos viviendo . 
+
+Binary Class: Critical
+
+Author: gold_label
+F: la persona que os DISCRIMINA [50, 55]
+
+Author: LAURA
+F: la persona que os DISCRIMINA [50, 55]
+A: del gobierno [30, 32]
+V: NO VACUNADO [172, 174]
+
+Author: MONTSE
+F: un restaurante ( o cualquier otro lugar al que no te dejen acceder ) [106, 120]
+F: la persona que os DISCRIMINA [50, 55]
+

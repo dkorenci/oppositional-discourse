@@ -1,0 +1,23 @@
+# AlexJonesShow LIVE : “ Vaccinated Americans Allowed to Taste Freedom , ” Says CNN Overlords ! - https :// www . banthis . tv / channel / the - alex - jones - show   Subscribe To Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 470 - 0222   Fortify Your Supply Sale Extended : https :// www . infowarsstore . com / specials - clearance / fortify - your - supply 
+
+Binary Class: Critical
+
+Author: gold_label
+F: CNN Overlords [14, 16]
+P: AlexJonesShow [1, 2]
+P: alex - jones [30, 33]
+P: infowarsstore [67, 68]
+
+Author: DAVID
+F: CNN Overlords [14, 16]
+P: AlexJonesShow [1, 2]
+P: alex - jones [30, 33]
+P: banthis [22, 23]
+P: infowarsstore [67, 68]
+
+Author: francesca
+F: CNN Overlords [14, 16]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [67, 68]
+P: alex - jones [30, 33]
+

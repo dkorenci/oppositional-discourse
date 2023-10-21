@@ -1,0 +1,19 @@
+Charlas - Coloquio sobre * " Ventajas e Inconvenientes de la Vacunación Infantil contra la covid 19 " * Dr. Angel Ruiz - Valdepeñas Esp . en Medicina Familiar y Comunitaria Cofundador de Médicos por la Verdad - Domingo 19 a las 7 de la tarde en Esfigueral Restaurante , Ibiza - El martes 21 en el Herbolario Pranathy de Santa Eularia des Riu . Contaremos con la participación de la Pediatra Dra Agnes Palau con más de 35 años de experiencia . Miembro de Médicos por la Verdad España - Y el jueves 23 a las 7 de la tarde el La Nave , entre Santa Gertrudis y San Miguel Herbolario Pranathy le está invitando hoy día 21 a las 19h a una reunión de Zoom programada . https :// us02web . zoom . us / j / 84286928945 ? pwd = Zk9sZ2xtUnczdEtRN1ZQUHA2TVFOQT09 ID de reunión : 832 8592 8245 Código de acceso : 715663 Móvil con un toque +34918870158,,84286928945 # España +34918873532,,84286928945 # España +34 91 887 0158 España +34 917 873 431 España +34 84 368 5025 España +1 301 715 8592 Estados Unidos 
+
+Binary Class: Critical
+
+Author: gold_label
+P: la Pediatra Dra Agnes Palau con más de 35 años de experiencia . Miembro de Médicos por la Verdad España [70, 90]
+P: Dr. Angel Ruiz - Valdepeñas Esp . en Medicina Familiar y Comunitaria Cofundador de Médicos por la Verdad [19, 37]
+
+Author: LAURA
+P: Miembro de Médicos por la Verdad España [83, 90]
+P: Esp . en Medicina Familiar y Comunitaria [24, 31]
+P: Cofundador de Médicos por la Verdad [31, 37]
+P: la Pediatra Dra Agnes Palau [70, 75]
+P: Dr. Angel Ruiz - Valdepeñas [19, 24]
+
+Author: MONTSE
+P: Dr. Angel Ruiz - Valdepeñas Esp . en Medicina Familiar y Comunitaria Cofundador de Médicos por la Verdad [19, 37]
+P: la Pediatra Dra Agnes Palau con más de 35 años de experiencia . Miembro de Médicos por la Verdad España [70, 90]
+

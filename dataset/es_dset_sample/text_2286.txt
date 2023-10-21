@@ -1,0 +1,21 @@
+PONENCIA : DRA . NATALIA PREGO CANCELO " Orientaciones Terapéuticas frente a los efectos de las “ Vacunas ” COVID - 19 " . Congreso Médico - Jurídico : " SALUD y DERECHOS " . Médicos Por la Verdad   Hago Unas aclaraciones , respecto a la ponencia : * La ivermectina se toma en ayunas para desparasitar y se toma preferiblemente con algún alimento rico en grasas para acción anti - inflamatoria y terapéutica Inmunomoduladora para secuelas " inyectable " covid - 19 . * También utilizamos en tratamiento covid - 19 antibioterapia para tratar posibles sobre - infecciones bacterianas , principalmente agravadas por utilización de mascarillas . * Declaro que no tengo ningún tipo de conflicto de intereses . * Todos estos tratamientos deben ser supervisadas por un médico . No debe auto - medicarse .   PUEDES APOYARNOS , para seguir trabajando , investigando y difundiendo . CÓDIGO IBAN ES3900778922650700394490 ( concepto : donación ) CÓDIGO BIC - SWIFT BSCHESMMLLY ( desde el extranjero ) Puedes hacer tu " DONACIÓN " : BIZUM : 692592372 Gracias 
+
+Binary Class: Critical
+
+Author: gold_label
+P: Médicos Por la Verdad [35, 39]
+P: DRA . NATALIA PREGO CANCELO [2, 7]
+E: los efectos de las “ Vacunas ” COVID - 19 " [12, 23]
+
+Author: LAURA
+P: DRA . NATALIA PREGO CANCELO [2, 7]
+P: Médicos Por la Verdad [35, 39]
+E: secuelas " inyectable " covid - 19 [77, 84]
+E: los efectos de las “ Vacunas ” COVID - 19 [12, 22]
+E: posibles sobre - infecciones bacterianas , principalmente agravadas por utilización de mascarillas [96, 108]
+
+Author: XAVI
+P: Médicos Por la Verdad [35, 39]
+P: DRA . NATALIA PREGO [2, 6]
+E: los efectos de las “ Vacunas ” COVID - 19 " [12, 23]
+

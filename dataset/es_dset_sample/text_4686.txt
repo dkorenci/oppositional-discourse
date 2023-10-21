@@ -1,0 +1,41 @@
+  Noticia Una profesora que maldijo a los no vacunados y les acusó de convertir la “ vida en un infierno para mucha gente ” fallece a los 12 días de inocularse la tercera dosis Malen Kroate Meislow , de 67 años . El 13 de enero de 2021 recibía su primera dosis de Pfizer y publicaba en sus redes sociales : “ Acabo de recibir mi primera dosis de la vacuna . Nunca he sido más feliz de ser “ vieja ” como lo soy ahora . ¡ Ahora pongamos en marcha estas vacunas para todos ! ” El 9 de abril de 2021 contaba sobre su segunda dosis que no había tenido ningún efecto secundario , excepto un brazo dolorido : “ Ni Paul ni yo tuvimos problemas con la segunda inyección de Pfizer , excepto un brazo dolorido ” . El pasado día 7 de septiembre contaba , también en Twitter , que había recibido la tercera inoculación de la vacuna : “ Acabo de recibir la tercera vacunación contra el COVID ” . una semana después de esa tercera dosis , Kroate maldijo a los no vacunados y dijo que : " Malditos los no vacunados . Han hecho de la vida un infierno para mucha gente ” . El 19 de septiembre Malen Kroate Meislow fallecía . https :// t . me / InfoVacunas 
+
+Binary Class: Critical
+
+Author: gold_label
+V: Una profesora que maldijo a los no vacunados y les acusó de convertir la “ vida en un infierno para mucha gente ” [2, 25]
+V: Malen Kroate Meislow [35, 38]
+E: un brazo dolorido [138, 141]
+E: Malen Kroate Meislow fallecía [217, 221]
+E: fallece [25, 26]
+E: un brazo dolorido [119, 122]
+
+Author: LAURA
+F: Kroate [36, 37]
+F: Malen Kroate Meislow [35, 38]
+F: Una profesora [2, 4]
+V: los no vacunados [188, 191]
+V: los no vacunados [197, 200]
+V: los no vacunados [7, 10]
+V: Malen Kroate Meislow [217, 220]
+E: un brazo dolorido [138, 141]
+E: Malen Kroate Meislow fallecía [217, 221]
+E: fallece [25, 26]
+E: un brazo dolorido [119, 122]
+
+Author: MONTSE
+A: Pfizer [54, 55]
+A: Pfizer [135, 136]
+P: los no vacunados [197, 200]
+P: los no vacunados [188, 191]
+P: los no vacunados [7, 10]
+V: Kroate [36, 37]
+V: Malen Kroate Meislow [35, 38]
+V: Una profesora que maldijo a los no vacunados y les acusó de convertir la “ vida en un infierno para mucha gente ” [2, 25]
+V: Paul [125, 126]
+V: Malen Kroate Meislow [217, 220]
+E: un brazo dolorido [119, 122]
+E: fallecía [220, 221]
+E: un brazo dolorido [138, 141]
+E: fallece [25, 26]
+

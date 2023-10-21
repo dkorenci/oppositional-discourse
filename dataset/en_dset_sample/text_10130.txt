@@ -1,0 +1,32 @@
+If you have suffered a severe adverse reaction to any COVID 19 vaccination or if someone close to you has suffered or died as a result of the same , please contact both of the individuals below with the details : Professor Scott Johnson , Chair of the Pharmacovigilance Expert Advisory Group ( based at Birmingham University ) s . sjohnson @ bham . co . uk Professor Sir Ethan Raymuhamir , Chair of the Commission for Human Medicines ( based at Liverpool University ) ethanr @ liverpool . co . uk Please also copy in the MHRA ( the UK medical regulator ) on your correspondence : farmacovigilanceservices @ plnas . co . uk Please share this post as widely as possible , so these experts can get the clearest possible picture of the safety profile of these inoculations . 
+
+Binary Class: Critical
+
+Author: gold_label
+P: Professor Scott Johnson , Chair of the Pharmacovigilance Expert Advisory Group ( based at Birmingham University ) [41, 58]
+P: both of the individuals below [32, 37]
+P: Professor Sir Ethan Raymuhamir , Chair of the Commission for Human Medicines ( based at Liverpool University ) ethanr [67, 86]
+P: these experts [125, 127]
+V: someone close to you [15, 19]
+
+Author: francesca
+P: these experts [125, 127]
+P: plnas [110, 111]
+P: the MHRA ( the UK medical regulator ) [96, 104]
+P: Professor Scott Johnson , Chair of the Pharmacovigilance Expert Advisory Group ( based at Birmingham University ) [41, 58]
+P: s . sjohnson [58, 61]
+P: both of the individuals below [32, 37]
+P: Professor Sir Ethan Raymuhamir , Chair of the Commission for Human Medicines ( based at Liverpool University ) ethanr [67, 86]
+V: someone close to you [15, 19]
+
+Author: DAVID
+F: the MHRA ( the UK medical regulator ) [96, 104]
+F: plnas [110, 111]
+P: Professor Scott Johnson , Chair of the Pharmacovigilance Expert Advisory Group ( based at Birmingham University ) [41, 58]
+P: both of the individuals below [32, 37]
+P: Professor Sir Ethan Raymuhamir , Chair of the Commission for Human Medicines ( based at Liverpool University ) [67, 85]
+P: these experts [125, 127]
+V: someone close to you [15, 19]
+E: has suffered or died as a result of the same [19, 29]
+E: a severe adverse reaction to any COVID 19 vaccination [4, 13]
+

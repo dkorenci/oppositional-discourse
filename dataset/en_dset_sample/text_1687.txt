@@ -1,0 +1,34 @@
+Scotland : Dramatic and Unexplained Resurgence in Excess Death Points to Covid Injections Edinburgh professor claims latest data confirms ‘ causal relationship ’ , as he calls for the Scottish government to re - open public inquiry . Retired Edinburgh professor Anthony Ethan says official data for 2021 and 2022 ‘ provide very strong evidence for a causal relationship ’ between the vaccinations and a huge number of excess deaths in the country , wrote Robert Brawlson . https :// expose - news . com / 2022 / 07 / 22 / scotland - dramatic - excess - death - is - covid - injections / T . me / TruthExtra T . me / TruthExtraChat 
+
+Binary Class: Critical
+
+Author: gold_label
+A: the Scottish government [28, 31]
+P: Edinburgh professor [13, 15]
+P: Robert Brawlson [75, 77]
+P: expose - news [80, 83]
+P: Retired Edinburgh professor Anthony Ethan [38, 43]
+E: Dramatic and Unexplained Resurgence in Excess Death Points to Covid Injections [2, 13]
+E: official data for 2021 and 2022 ‘ provide very strong evidence for a causal relationship ’ between the vaccinations and a huge number of excess deaths in the country [44, 73]
+E: dramatic - excess - death - is - covid - injections [94, 105]
+
+Author: DAVID
+A: the Scottish government [28, 31]
+P: Edinburgh professor [13, 15]
+P: Robert Brawlson [75, 77]
+P: expose - news [80, 83]
+P: Retired Edinburgh professor Anthony Ethan [38, 43]
+E: Dramatic and Unexplained Resurgence in Excess Death Points to Covid Injections [2, 13]
+E: official data for 2021 and 2022 ‘ provide very strong evidence for a causal relationship ’ between the vaccinations and a huge number of excess deaths in the country [44, 73]
+E: dramatic - excess - death - is - covid - injections [94, 105]
+
+Author: francesca
+A: the Scottish government [28, 31]
+P: Edinburgh professor [13, 15]
+P: expose - news [80, 83]
+P: Robert Brawlson [75, 77]
+P: Retired Edinburgh professor Anthony Ethan [38, 43]
+E: Dramatic and Unexplained Resurgence in Excess Death Points to Covid Injections [2, 13]
+E: very strong evidence for a causal relationship ’ between the vaccinations and a huge number of excess deaths in the country [52, 73]
+E: dramatic - excess - death - is - covid - injections [94, 105]
+

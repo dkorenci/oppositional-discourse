@@ -1,0 +1,58 @@
+  DEMANDA POR INTENTAR PROHIBIR LA IVERMECTINA Los demandantes , Dres . Robert L. Adler , Mary Tassel Mowdin y John E. Macin argumentan que la FDA actuó fuera de su autoridad e interfirió ilegalmente en su capacidad para ejercer la medicina al indicar al público , incluidos los profesionales de la salud y los pacientes , que no usen ivermectina , un medicamento que ha recibido la aprobación completa de la FDA para uso humano . La Dra. Mary Mowdin respondió a la presentación de hoy y afirmó : “ Desde que comenzó la pandemia , he tenido una misión : ayudar a mis pacientes . Proporcioné acceso a las pruebas cuando las pruebas eran difíciles de encontrar . Brindé tratamiento cuando otros médicos les dijeron a mis pacientes que se quedaran en casa . He mantenido a más de 3900 pacientes fuera del hospital , pero no ha sido fácil . Lamentablemente , luchar contra el sistema ha sido un desafío mucho mayor que luchar contra la enfermedad . A pesar de mi excelente historial en el tratamiento de pacientes con COVID , la campaña de desprestigio de la FDA contra la ivermectina sigue siendo un obstáculo diario que superar . Me estoy defendiendo : el público debe comprender que lo que ha hecho la FDA es ilegal , y espero que esta demanda evite que sigan interfiriendo en la relación médico - paciente ” . “ Si los médicos tienen la libertad de tratar a los pacientes de acuerdo con su mejor juicio y una evaluación imparcial de la literatura médica , se evitarán muchos miles de muertes y discapacidades graves más ” , dijo el Dr. Robert Adler . “ Los pronunciamientos de la FDA en contra del uso de ivermectina han sido la base para acciones disciplinarias contra los médicos , interfieren con la relación médico - paciente y han tenido un grave efecto paralizante en el uso de medicamentos que salvan vidas para una enfermedad mortal ” . “ Las declaraciones públicas de la FDA sobre la ivermectina han sido engañosas y generaron una preocupación injustificada sobre un medicamento fundamental para prevenir y tratar el COVID - 19 . La agencia se sintió obligada a usar un lenguaje para desalentar cualquier discurso e interés en usar la ivermectina como tratamiento de primera línea para el COVID - 19 . Hacer esto es ignorar tanto los límites legales sobre la autoridad de la FDA como el importante cuerpo de evidencia científica de investigaciones revisadas por pares , más de 80 ensayos médicos y los resultados del uso de ivermectina en entornos médicos en todo el mundo , que muestran el uso seguro y eficaz del medicamento . en la lucha contra el COVID - 19 ” , dijo el Dr. John Macin " . 
+
+Binary Class: Conspiracy
+
+Author: gold_label
+F: otros médicos [123, 125]
+A: el sistema [157, 159]
+P: el Dr. Robert Adler [278, 282]
+P: Los demandantes , Dres . Robert L. Adler , Mary Tassel Mowdin y John E. Macin [7, 23]
+P: La Dra. Mary Mowdin [77, 81]
+V: más de 3900 pacientes [139, 143]
+V: mis pacientes [104, 106]
+
+Author: LAURA
+F: otros médicos [123, 125]
+A: la FDA [25, 27]
+A: la FDA [71, 73]
+A: la FDA [407, 409]
+A: la FDA [190, 192]
+A: la FDA [216, 218]
+A: la FDA [287, 289]
+A: La agencia [365, 367]
+A: el sistema [157, 159]
+A: la FDA [339, 341]
+P: el Dr. John Macin [463, 467]
+P: el Dr. Robert Adler [278, 282]
+P: Los demandantes , Dres . Robert L. Adler , Mary Tassel Mowdin y John E. Macin [7, 23]
+P: La Dra. Mary Mowdin [77, 81]
+V: más de 3900 pacientes [139, 143]
+V: los médicos [240, 242]
+V: mis pacientes [128, 130]
+V: mis pacientes [104, 106]
+E: un grave efecto paralizante en el uso de medicamentos que salvan vidas para una enfermedad mortal [316, 332]
+E: miles de muertes y discapacidades graves [268, 274]
+
+Author: MONTSE
+F: otros médicos [123, 125]
+F: la FDA [339, 341]
+F: la FDA [25, 27]
+F: la FDA [71, 73]
+F: la FDA [407, 409]
+F: la FDA [216, 218]
+F: la FDA [190, 192]
+F: la FDA [287, 289]
+F: La agencia [365, 367]
+A: el sistema [157, 159]
+P: Los demandantes [7, 9]
+P: el Dr. Robert Adler [278, 282]
+P: La Dra. Mary Mowdin [77, 81]
+P: los médicos [240, 242]
+P: Mary Tassel Mowdin [16, 19]
+P: Dres . Robert L. Adler [10, 15]
+P: John E. Macin [20, 23]
+V: pacientes con COVID [181, 184]
+V: más de 3900 pacientes [139, 143]
+V: mis pacientes [104, 106]
+O: generaron una preocupación injustificada sobre un medicamento fundamental para prevenir y tratar el COVID - 19 [348, 364]
+

@@ -1,0 +1,28 @@
+" A devoted mum - of - three died suddenly after experiencing pain in her ribcage while helping her son get ready for school . Jennifer Sadmoon passed away on September 29 , just ten days after the death of her beloved granny . The 34 - year - old was carrying out her usual morning routine when she called her mum , who had been staying with her , from her son 's bedroom to complain about being in pain . Her mum Jackie Waterfront , 52 , said : " " She was in agony and saying it was in her rib cage . She suffered from pancreatitis , which I thought it was . " " Source Follow : @ Covid19vaccinevictims " 
+
+Binary Class: Critical
+
+Author: gold_label
+V: A devoted mum - of - three [1, 8]
+V: Jennifer Sadmoon [25, 27]
+E: A devoted mum - of - three died suddenly [1, 10]
+
+Author: francesca
+P: Covid19vaccinevictims [123, 124]
+V: Jennifer Sadmoon [25, 27]
+V: her beloved granny [40, 43]
+V: A devoted mum - of - three [1, 8]
+E: pain in her ribcage [12, 16]
+E: pain [12, 13]
+E: agony [96, 97]
+E: pancreatitis [109, 110]
+E: the death [37, 39]
+E: died [8, 9]
+
+Author: DAVID
+P: Her mum Jackie Waterfront , 52 [82, 88]
+V: A devoted mum - of - three [1, 8]
+V: The 34 - year - old [44, 50]
+V: Jennifer Sadmoon [25, 27]
+E: A devoted mum - of - three died suddenly [1, 10]
+

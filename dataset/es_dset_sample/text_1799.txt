@@ -1,0 +1,19 @@
+Nuestro compañero el Dr. Alejandro Costa participa hoy en este programa de LA BITACRA Programa N ° 43 VACUNAS Efectos y Mentiras Juanjo Pontevedra Médico / Augusto Bote Voluntario Vac . Situación en ESPAÑA Alejandro Costa Médico Urólogo Miércoles 22 / JUNIO 19:00 Hs ARG ( GMT - 3 ) / Jueves 23 / JUNIO 8:00 Hs AUS ( GMT + 11 ) / 00:00 Hs ESP ( GMT + 2 ) En VIVO por Twitch http :// www . twitch . tv / labitac0ra Odysee http :// odysee . com /@ LA . BITACORA : d Telegram https :// t . me / FansLaBitacora ( entrar al Stream ) LINKTREE http :// linktr . ee / la . bitacora TELEGRAM http :// t . me / LA _ BITACORA FACEBOOK http :// www . facebook . com / info . labitacora EMAIL infobitacora @ yahoo . com APOYANOS ! Transferencias CVU 00000041000985589 / ALIAS martin . salgado M . PAGO LA BIT 250 https :// mpago . la / 2cMw56L LA BIT 500 https :// mpago . la / 2Tn7c4c LA BIT 750 https :// mpago . la / 2vZw4sd LA BIT 1000 https :// mpago . la / 1qw9mk5 LA BIT 2000 https :// mpago . la / 19cF1eo PAYPAL https :// www . paypal . com / donate / ? business = M55U9L8S9TURY & no _ recurring = 0 ¤ cy _ code = AUD GRACIAS POR APOYARNOS ! 
+
+Binary Class: Critical
+
+Author: gold_label
+P: Nuestro compañero el Dr. Alejandro Costa [0, 6]
+P: Alejandro Costa Médico Urólogo [34, 38]
+
+Author: MONTSE
+P: Alejandro Costa Médico Urólogo [34, 38]
+P: el Dr. Alejandro Costa [2, 6]
+
+Author: LAURA
+P: Nuestro compañero el Dr. Alejandro Costa [0, 6]
+P: Augusto Bote Voluntario [26, 29]
+P: Alejandro Costa Médico Urólogo [34, 38]
+P: Juanjo Pontevedra Médico [22, 25]
+E: Efectos [19, 20]
+

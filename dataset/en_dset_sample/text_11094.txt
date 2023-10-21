@@ -1,0 +1,17 @@
+" BASED IN - N - OUT   Berny Wanninhof , the company 's chief legal and business officer , said in a statement obtained by Insider that the restaurant is opposed to enforcing vaccine policies . " " As a Company , In - N - Out Burger strongly believes in the highest form of customer service and to us that means serving all Customers who visit us and making all Customers feel welcome , " " Wanninhof said . " " We refuse to become the vaccination police for any government , " " he added . " 
+
+Binary Class: Critical
+
+Author: gold_label
+P: BASED IN - N - OUT   Berny Wanninhof , the company 's chief legal and business officer [1, 19]
+
+Author: Julia
+F: any government [91, 93]
+P: the restaurant [28, 30]
+P: BASED IN - N - OUT   Berny Wanninhof , the company 's chief legal and business officer [1, 19]
+P: As a Company , In - N - Out Burger [39, 49]
+
+Author: DAVID
+A: government [92, 93]
+P: Berny Wanninhof , the company 's chief legal and business officer [8, 19]
+

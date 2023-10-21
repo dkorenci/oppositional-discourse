@@ -1,0 +1,34 @@
+  LLAMAMIENTO A AFECTADOS   Nos han contactado para hacer un programa especial en TV para que los afectados puedan contar su experiencia , situación y circunstancias .   Quienes queráis participar contanto vuestros casos , por favor contactad con nosotros enviando un email a mail @ AfectadosPorLasVacunas . org con el asunto : TELEVISIÓN   HAGAMOS VISIBLE el PROBLEMA de las personas que sufren SECUELAS y DAÑOS por las VACUNAS   El sistema pretende SILENCIAR a las víctimas de las vacunas , NOSOTROS SER SU ALTAVOZ . Ayúdanos a DIFUNDIR Ayúdanos a AYUDAR    DEJA tu TESTIMONIO   WEB   GRUPO   CANAL   # AfectadosPorLasVacunas # LaVozDeLosInvisibles # Campaña # Television https :// t . me / la _ verdad _ nos _ hara _ libres / 2856 ¡ COMPARTIR PARA ESTAR INFORMADOS ! ! SHARE TO BE AWARE ! https :// m . facebook . com / story . php ? story _ fbid = 323205999864709 & id = 100065259346776 Groups / Grupos https :// m . facebook . com / story . php ? story _ fbid = 322528583265784 & id = 100065259346776 & sfnsn = scwspmo https :// docs . google . com / document / d / 1amyEH1BoxjI - O7yOEelC _ uBmwKlci44oQwwK36BS - vQ / edit ? usp = sharing Únete / Join : WhatsApp : https :// chat . whatsapp . com / FS4FetbzaKBFBSPXb5SpFT Telegram : https :// t . me / joinchat / FRYRCBdtjgTcQJto Más / More Info : https :// docs . google . com / document / d / 1ZtkHdpkYwPFmewvwylSfiwKyph - zFHTM8LIY - 2Cuibk / edit ? usp = drivesdk . * * * * * * * * * * * * * ¡ VER Y COMPARTIR ! ! CHECK AND SHARE ! https :// m . facebook . com / story . php ? story _ fbid = 323634973155145 & id = 100065259346776 & sfnsn = scwspmo 
+
+Binary Class: Critical
+
+Author: gold_label
+A: El sistema [72, 74]
+P: WEB   GRUPO   CANAL [99, 104]
+V: las víctimas de las vacunas [77, 82]
+V: los afectados [17, 19]
+V: las personas que sufren SECUELAS y DAÑOS por las VACUNAS [61, 71]
+V: AFECTADOS [3, 4]
+E: SECUELAS y DAÑOS [65, 68]
+
+Author: MONTSE
+A: El sistema [72, 74]
+P: WEB   GRUPO   CANAL [99, 104]
+V: las personas que sufren SECUELAS y DAÑOS por las VACUNAS [61, 71]
+V: AFECTADOS [3, 4]
+V: las víctimas de las vacunas [77, 82]
+V: los afectados [17, 19]
+E: SECUELAS y DAÑOS [65, 68]
+
+Author: LAURA
+A: El sistema [72, 74]
+P: GRUPO   CANAL [101, 104]
+V: las víctimas de las vacunas [77, 82]
+V: los afectados [17, 19]
+V: AfectadosPorLasVacunas [47, 48]
+V: LaVozDeLosInvisibles [108, 109]
+V: las personas que sufren SECUELAS y DAÑOS por las VACUNAS [61, 71]
+V: AFECTADOS [3, 4]
+E: SECUELAS [65, 66]
+E: DAÑOS [67, 68]
+

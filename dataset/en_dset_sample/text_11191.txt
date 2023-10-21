@@ -1,0 +1,55 @@
+Nate Robert O'Brian 13 Years old , New Jersey , USA Vaccine : Unknown Dose 1 : Unknown Dose 2 : June 6 , 2021 Died : January 4 , 2022 Nate a 13 year old healthy active boy who loved playing his saxophone and spending time with family and friends has died . Nate received his second dose of the Covid “ vaccine ” on June 6 , 2022 according to his mothers Facebook post . He tragically suffered cardiac arrest on New Year ’s Eve while playing with his friends . There are no words to describe what we feel learning of another child losing their life from these injections . No parent should have to feel this amount of grief . We pray that sharing these stories will save more children . It is not normal for a healthy child Nates age to suffer cardiac arrest . May you Rest In Peace Nate   This is his families GoFundMe : https :// www . gofundme . com / f / the - obrian - family # Death # USA # Heart # Cardiac # COVIDVACCINEVICTIMS # Youth # Child Subscribe : t . me / covidvaccinevictims Share your story : covidvaccinevictims . com 
+
+Binary Class: Critical
+
+Author: gold_label
+V: Nate Robert O'Brian 13 Years old , New Jersey , USA [0, 11]
+V: another child [104, 106]
+V: Nate [0, 1]
+V: a healthy child Nates age [140, 145]
+V: Nate [31, 32]
+V: No parent [113, 115]
+V: Nate a 13 year old healthy active boy who loved playing his saxophone and spending time with family and friends [31, 51]
+E: to suffer cardiac arrest [145, 149]
+E: He tragically suffered cardiac arrest on New Year ’s Eve while playing with his friends [77, 92]
+E: Nate a 13 year old healthy active boy who loved playing his saxophone and spending time with family and friends has died [31, 53]
+E: another child losing their life from these injections [104, 112]
+
+Author: francesca
+V: Nate [0, 1]
+V: a healthy child Nates age [140, 145]
+V: Nate [31, 32]
+V: more [132, 133]
+V: covidvaccinevictims [198, 199]
+V: Death [179, 180]
+V: No parent [113, 115]
+V: Nate a 13 year old healthy active boy who loved playing his saxophone and spending time with family and friends [31, 51]
+V: his families [159, 161]
+V: Nate Robert O'Brian 13 Years old , New Jersey , USA [0, 11]
+V: the - obrian - family [173, 178]
+V: another child [104, 106]
+V: covidvaccinevictims [203, 204]
+E: losing their life [106, 109]
+E: cardiac arrest [80, 82]
+E: suffer cardiac arrest [146, 149]
+E: died [52, 53]
+
+Author: DAVID
+V: Nate Robert O'Brian 13 Years old , New Jersey , USA [0, 11]
+V: another child [104, 106]
+V: Nate [0, 1]
+V: COVIDVACCINEVICTIMS [187, 188]
+V: a healthy child Nates age [140, 145]
+V: Child [191, 192]
+V: Nate [31, 32]
+V: Youth [189, 190]
+V: No parent [113, 115]
+V: children [133, 134]
+V: Nate a 13 year old healthy active boy who loved playing his saxophone and spending time with family and friends [31, 51]
+E: to suffer cardiac arrest [145, 149]
+E: Died : January 4 , 2022 [25, 31]
+E: Death [179, 180]
+E: He tragically suffered cardiac arrest on New Year ’s Eve while playing with his friends [77, 92]
+E: Nate a 13 year old healthy active boy who loved playing his saxophone and spending time with family and friends has died [31, 53]
+E: another child losing their life from these injections [104, 112]
+

@@ -1,0 +1,28 @@
+# AlexJonesShow LIVE : DARPA Announces “ Superhero Vaccine ” That Takes Over Entire Human Body !   Watch & Share : https :// freeworldnews . tv / channel / the - alex - jones - show   CALL NOW : ( 877 ) 789 - 4475 | Listen Line : 605 - 562 - 6325   Sign Up For Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 470 - 0222   July 4th Super Sale : https :// www . infowarsstore . com / specials - clearance / july - 4th - super - sale 
+
+Binary Class: Critical
+
+Author: gold_label
+A: DARPA [4, 5]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [88, 89]
+P: freeworldnews [24, 25]
+P: alex - jones [32, 35]
+E: “ Superhero Vaccine ” That Takes Over Entire Human Body [6, 16]
+
+Author: DAVID
+A: DARPA [4, 5]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [88, 89]
+P: freeworldnews [24, 25]
+P: alex - jones [32, 35]
+E: “ Superhero Vaccine ” That Takes Over Entire Human Body [6, 16]
+
+Author: francesca
+A: DARPA [4, 5]
+P: alex - jones [32, 35]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [88, 89]
+P: freeworldnews [24, 25]
+E: “ Superhero Vaccine ” That Takes Over Entire Human Body [6, 16]
+

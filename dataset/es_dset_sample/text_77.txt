@@ -1,0 +1,29 @@
+* Jueves 19 de mayo , a las 20 horas * * CONVOCATORIA a todos los Coordinadores de grupos de Efectos Adversos de las Vacunas para una reunión de Coordinación , con miras a conformar un GRUPO / BASE DE DATOS a nivel nacional , con una coordinación central que nucleará a todas las provincias / regiones , teniendo cada una , a su vez , sus coordinadores . * * Esta vez nos centraremos en las ESTRATEGIAS a seguir . * Organiza : Coordinadores colectivos ( Coordinadora de acciones colectivas en todo el país y países aledaños ) . Por favor inscribirse por mensaje de texto de WhatsApp +54 911 5319 3746 para consultas y para recibir el link de ingreso . Agradecemos mucho su difusión entre sus conocidos que administren o participen activamente en grupos de la temática de efectos adversos . 
+
+Binary Class: Critical
+
+Author: gold_label
+P: Coordinadora de acciones colectivas en todo el país y países aledaños [87, 98]
+P: los Coordinadores de grupos de Efectos Adversos de las Vacunas [15, 25]
+P: sus conocidos que administren o participen activamente en grupos de la temática de efectos adversos [128, 143]
+P: Coordinadores colectivos [84, 86]
+E: Efectos Adversos de las Vacunas [20, 25]
+E: efectos adversos [141, 143]
+
+Author: LAURA
+P: Coordinadora de acciones colectivas en todo el país y países aledaños [87, 98]
+P: los Coordinadores de grupos de Efectos Adversos de las Vacunas [15, 25]
+P: sus coordinadores [66, 68]
+P: sus conocidos que administren o participen activamente en grupos de la temática de efectos adversos [128, 143]
+P: Coordinadores colectivos [84, 86]
+E: Efectos Adversos de las Vacunas [20, 25]
+E: efectos adversos [141, 143]
+
+Author: MONTSE
+P: los Coordinadores de grupos de Efectos Adversos de las Vacunas [15, 25]
+P: Coordinadores colectivos [84, 86]
+P: sus conocidos que administren o participen activamente en grupos de la temática de efectos adversos [128, 143]
+P: Coordinadora de acciones colectivas en todo el país y países aledaños [87, 98]
+E: efectos adversos [141, 143]
+E: Efectos Adversos de las Vacunas [20, 25]
+

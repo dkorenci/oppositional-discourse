@@ -1,0 +1,35 @@
+  Noticia Médico que escribe artículos y graba vídeos a favor de la vacunación de adolescentes , tiene contrato con Pfizer   José Veranzas recibe 2 . 000 euros mensuales por su puesto de consultor en la empresa Pfizer . José Veranzas ha recibido 33 . 519 euros de Pfizer en los últimos cuatro años , que incluyen el dinero pagado por conferencias en las que fue ponente , grabaciones de vídeo sobre vacunas y el citado contrato de consultoría científica ( que vale 2 . 000 euros mensuales ) . alrededor del 58 % del total recibido ( 19 . 573 euros ) ya estaba entregado este año . El médico que trabaja en infectología en el Hospital Pediátrico Dona Estefânia de Lisboa , tiene una carrera académica en la Universidad Nova y fue coordinador del comité de vacunación de la Sociedad Portuguesa de Pediatría : este es un organismo influyente , que emite recomendaciones a pediatras y otros profesionales de la salud sobre las vacunas que se deben administrar a los niños . https :// t . me / InfoVacunas 
+
+Binary Class: Critical
+
+Author: gold_label
+F: Médico que escribe artículos y graba vídeos a favor de la vacunación de adolescentes [2, 16]
+F: José Veranzas [40, 42]
+F: José Veranzas [22, 24]
+F: El médico [110, 112]
+F: del comité de vacunación de la Sociedad Portuguesa de Pediatría [136, 146]
+V: los niños [172, 174]
+
+Author: LAURA
+F: Pfizer [38, 39]
+F: Pfizer [20, 21]
+F: José Veranzas [40, 42]
+F: José Veranzas [22, 24]
+F: la empresa Pfizer [36, 39]
+F: del comité de vacunación de la Sociedad Portuguesa de Pediatría [136, 146]
+F: Médico que escribe artículos y graba vídeos a favor de la vacunación de adolescentes [2, 16]
+F: El médico [110, 112]
+V: los niños [172, 174]
+V: adolescentes [15, 16]
+
+Author: EMMA
+F: Médico [2, 3]
+F: José Veranzas [40, 42]
+F: José Veranzas [22, 24]
+F: El médico [110, 112]
+F: la Sociedad Portuguesa de Pediatría [141, 146]
+A: Pfizer [49, 50]
+A: Pfizer [20, 21]
+A: Pfizer [38, 39]
+V: los niños [172, 174]
+

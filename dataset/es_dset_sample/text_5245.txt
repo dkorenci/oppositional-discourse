@@ -1,0 +1,25 @@
+BarcelonaEsMou   LIBERUM INFORMA   Os solicitamos que compartáis este mensaje por todos los canales posibles . Con la implementación de vacunación a los niños , si hay algún caso de efectos adversos en los menores , por favor contactad con nosotros vía email , queremos ayudar a los afectados a tomar medidas . E - mail : LIBERUMasociacion @ protogmail . cat Gracias a todos . 
+
+Binary Class: Critical
+
+Author: gold_label
+P: LIBERUM [2, 3]
+V: los niños [23, 25]
+V: los afectados [48, 50]
+V: los menores [34, 36]
+E: algún caso de efectos adversos en los menores [28, 36]
+
+Author: LAURA
+P: LIBERUM [2, 3]
+V: los afectados [48, 50]
+V: los niños [23, 25]
+V: los menores [34, 36]
+E: algún caso de efectos adversos en los menores [28, 36]
+
+Author: XAVI
+P: LIBERUM [2, 3]
+V: los niños [23, 25]
+V: los afectados [48, 50]
+V: los menores [34, 36]
+E: efectos adversos [31, 33]
+

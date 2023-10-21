@@ -1,0 +1,50 @@
+Fully Vaccinated 27 - Year - Old Ohio State University Student “ Died Suddenly ” - Dropped Dead On A Bike Ride   # DiedSuddenly ( August 2022 ) ( All students at Ohio State University are fully vaccinated , see above photo . ) An Ohio State University student died Saturday during the Pelotonia fundraising bicycle ride event , the organization announced Sunday . Mikey Hunter , 27 , of Upper Arlington , a three - time participant in the Pelotonia , experienced a medical issue while riding on a course and later died , Pelotonia President Alan Woods said in a statement . His family says he had a heart - related medical issue at mile 100 of his 102 - mile ride . " Mikey welcomed life and people in with open arms , " his family wrote in an obituary . " He loved everything around him . " ( Source ) t . me / covidbc 
+
+Binary Class: Critical
+
+Author: gold_label
+F: Ohio State University [46, 49]
+F: Ohio State University [7, 10]
+F: Ohio State University [33, 36]
+V: Fully Vaccinated 27 - Year - Old Ohio State University Student [0, 11]
+V: Mikey [65, 66]
+V: Mikey Hunter , 27 , of Upper Arlington , a three - time participant in the Pelotonia [65, 82]
+V: All students at Ohio State University [30, 36]
+V: An Ohio State University student [45, 50]
+E: “ Died Suddenly ” - Dropped Dead On A Bike Ride [11, 22]
+E: died Saturday during the Pelotonia fundraising bicycle ride event [50, 59]
+E: experienced a medical issue while riding on a course and later died [83, 95]
+E: he had a heart - related medical issue at mile 100 of his 102 - mile ride [108, 125]
+E: Died Suddenly [12, 14]
+
+Author: DAVID
+F: Ohio State University [46, 49]
+F: Ohio State University [7, 10]
+F: Ohio State University [33, 36]
+V: Fully Vaccinated 27 - Year - Old Ohio State University Student [0, 11]
+V: Mikey [65, 66]
+V: His family [105, 107]
+V: Mikey Hunter , 27 , of Upper Arlington , a three - time participant in the Pelotonia [65, 82]
+V: All students at Ohio State University [30, 36]
+V: An Ohio State University student [45, 50]
+E: “ Died Suddenly ” - Dropped Dead On A Bike Ride [11, 22]
+E: died Saturday during the Pelotonia fundraising bicycle ride event [50, 59]
+E: experienced a medical issue while riding on a course and later died [83, 95]
+E: he had a heart - related medical issue at mile 100 of his 102 - mile ride [108, 125]
+E: Died Suddenly [12, 14]
+
+Author: francesca
+F: Ohio State University [7, 10]
+F: Ohio State University [46, 49]
+F: Ohio State University [33, 36]
+V: Mikey [65, 66]
+V: Mikey Hunter , 27 , of Upper Arlington , a three - time participant in the Pelotonia [65, 82]
+V: All students at Ohio State University [30, 36]
+V: An Ohio State University student [45, 50]
+V: Fully Vaccinated 27 - Year - Old Ohio State University Student [0, 11]
+E: “ Died Suddenly ” - Dropped Dead On A Bike Ride [11, 22]
+E: experienced a medical issue while riding on a course and later died [83, 95]
+E: died Saturday during the Pelotonia fundraising bicycle ride event [50, 59]
+E: he had a heart - related medical issue at mile 100 of his 102 - mile ride [108, 125]
+E: Died Suddenly [12, 14]
+

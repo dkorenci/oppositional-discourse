@@ -1,0 +1,21 @@
+# AlexJonesShow LIVE : Global Awakening To Poisoned Vaccines Explodes !   Watch & Share This Banned Broadcast : https :// banthis . tv / channel / the - alex - jones - show   CALL NOW : ( 877 ) 789 - 4475   Subscribe For Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 470 - 0222   Daily Deal ! The Media Is The Virus T - Shirt : https :// www . infowarsstore . com / media - is - a - virus - tshirt 
+
+Binary Class: Conspiracy
+
+Author: gold_label
+P: AlexJonesShow [1, 2]
+P: infowarsstore [82, 83]
+P: alex - jones [29, 32]
+
+Author: DAVID
+F: media [86, 87]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [82, 83]
+P: alex - jones [29, 32]
+
+Author: francesca
+F: The Media [69, 71]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [82, 83]
+P: alex - jones [29, 32]
+

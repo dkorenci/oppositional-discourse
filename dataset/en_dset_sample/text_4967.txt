@@ -1,0 +1,28 @@
+# AlexJonesShow LIVE : Top Scientists Confirm Covid - 19 Vaccines Are Designed to Sterilize Recipients !   Tune In & Share This Banned Broadcast : https :// 79days . news / channel / the - alex - jones - show   Subscribe To Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 470 - 0222   Christmas Super Sale : http :// infowarsstore . com 
+
+Binary Class: Conspiracy
+
+Author: gold_label
+P: AlexJonesShow [1, 2]
+P: Top Scientists Confirm [4, 7]
+P: alex - jones [36, 39]
+P: infowarsstore [69, 70]
+V: Recipients [15, 16]
+O: to Sterilize Recipients [13, 16]
+
+Author: francesca
+P: AlexJonesShow [1, 2]
+P: infowarsstore [69, 70]
+P: alex - jones [36, 39]
+P: Top Scientists Confirm [4, 7]
+V: Recipients [15, 16]
+O: to Sterilize Recipients [13, 16]
+
+Author: DAVID
+P: AlexJonesShow [1, 2]
+P: Top Scientists [4, 6]
+P: alex - jones [36, 39]
+P: infowarsstore [69, 70]
+V: Recipients [15, 16]
+O: to Sterilize Recipients [13, 16]
+

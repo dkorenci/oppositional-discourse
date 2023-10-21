@@ -1,0 +1,15 @@
+Hola buenos días . Como estan ? Bueno les dejamos esta Cartilla de Vacunacion porque ahora sentimos inseguridad a la hora de llevar nuestra bebita al Dispensario . Queremos saber que Vacuna hay que dejar colocar a nuestra hija y cual no . un gran abrazo   Cristina C . Marinos y familia 
+
+Binary Class: Critical
+
+Author: gold_label
+P: Cristina C . Marinos y familia [47, 53]
+
+Author: MONTSE
+P: Cristina C . Marinos y familia [47, 53]
+V: nuestra hija [37, 39]
+V: nuestra bebita [23, 25]
+
+Author: LAURA
+P: Cristina C . Marinos y familia [47, 53]
+

@@ -1,0 +1,30 @@
+Jean Carston loses fingers to blood clots from being fully jabbed 10 months prior Jean Carston , 48 , from Tryon , NC , was so glad to be fully jabbed on March 25 , 2021 , had emergency surgery on Jan. 28 , 2022 to remove blood clots leaving her with necrosis in her hand that will need to be partially or fully amputated . Doctors told her they first thought they would have to amputate her entire arm during surgery and that she should have had a stroke . Facebook VaccineInjuries . ca Join us @ covidvaccineadversereactions 
+
+Binary Class: Critical
+
+Author: gold_label
+P: covidvaccineadversereactions [98, 99]
+P: VaccineInjuries . ca [92, 95]
+V: Jean Carston [0, 2]
+V: Jean Carston , 48 , from Tryon , NC [14, 23]
+E: had emergency surgery on Jan. 28 , 2022 to remove blood clots leaving her with necrosis in her hand that will need to be partially or fully amputated [37, 65]
+E: loses fingers to blood clots from being fully jabbed 10 months prior [2, 14]
+
+Author: DAVID
+P: covidvaccineadversereactions [98, 99]
+P: VaccineInjuries . ca [92, 95]
+V: Jean Carston [0, 2]
+V: Jean Carston , 48 , from Tryon , NC [14, 23]
+E: she should have had a stroke [84, 90]
+E: had emergency surgery on Jan. 28 , 2022 to remove blood clots leaving her with necrosis in her hand that will need to be partially or fully amputated [37, 65]
+E: loses fingers to blood clots from being fully jabbed [2, 11]
+
+Author: francesca
+F: Doctors [66, 67]
+P: covidvaccineadversereactions [98, 99]
+P: VaccineInjuries [92, 93]
+V: Jean Carston , 48 , from Tryon , NC [14, 23]
+V: Jean Carston [0, 2]
+E: had emergency surgery on Jan. 28 , 2022 to remove blood clots leaving her with necrosis in her hand that will need to be partially or fully amputated [37, 65]
+E: loses fingers to blood clots from being fully jabbed 10 months prior [2, 14]
+

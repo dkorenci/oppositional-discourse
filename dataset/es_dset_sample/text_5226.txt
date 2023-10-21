@@ -1,0 +1,29 @@
+  El mediático Dr. Zaballos admite malas prácticas médicas en fallecidos ( Explicaciones de Angel Bonet y Ricardo Sánchez ) Y entonces de qué quieren que nos vacunemos de un gerontocidio ? Contra los políticos ? Un año después nos van poco a poco dando la razón … ahora quienes han sido los negacionistas ?   https :// odysee . com /@ JorgeGuerra : 4 / doctor - en - lasexta : a ? r = 3WXAXKazLq8Jw9WhyxvfkKyvcwy6eKon 
+
+Binary Class: Critical
+
+Author: gold_label
+F: los políticos [33, 35]
+P: El mediático Dr. Zaballos [1, 5]
+P: Ricardo Sánchez [17, 19]
+P: los negacionistas [52, 54]
+P: Angel Bonet [14, 16]
+V: fallecidos [10, 11]
+
+Author: XAVI
+F: los políticos [33, 35]
+P: El mediático Dr. Zaballos [1, 5]
+P: Ricardo Sánchez [17, 19]
+P: los negacionistas [52, 54]
+P: Angel Bonet [14, 16]
+V: fallecidos [10, 11]
+E: un gerontocidio [29, 31]
+
+Author: LAURA
+F: los políticos [33, 35]
+P: Ricardo Sánchez [17, 19]
+P: los negacionistas [52, 54]
+P: El mediático Dr. Zaballos [1, 5]
+P: Angel Bonet [14, 16]
+V: fallecidos [10, 11]
+

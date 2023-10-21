@@ -1,0 +1,19 @@
+WATCH LIVE : Alex Jones Breaks Down What Trump Is Really Planning To Do With The Covid - 19 Vaccine !   Tune In : https :// ifw . io / htg   Call Now : ( 877 ) 789 - 4475   For Live Broadcast Alerts , Text : ' SHOW ' To : ( 833 ) 470 - 0222   Support # Infowars : http :// infowarsstore . com 
+
+Binary Class: Critical
+
+Author: gold_label
+P: infowarsstore [68, 69]
+P: Alex Jones [3, 5]
+
+Author: DAVID
+P: Trump [8, 9]
+P: ifw [27, 28]
+P: infowarsstore [68, 69]
+P: Alex Jones [3, 5]
+
+Author: francesca
+P: Infowars [64, 65]
+P: infowarsstore [68, 69]
+P: Alex Jones [3, 5]
+

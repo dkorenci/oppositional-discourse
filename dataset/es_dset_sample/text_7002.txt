@@ -1,0 +1,18 @@
+CONSULTA PRESENCIAL DE LA DRA . NADIYA POPEL EN BALAGUER , LOS DÍAS 14 - 15 - 16 DE DICIEMBRE . Sobre Covid , efectos secundarios de las vacunas , daños por exceso de medicamentos , otras patologías ..... Tel para reservar consulta : 605547997 . 
+
+Binary Class: Critical
+
+Author: gold_label
+P: LA DRA . NADIYA POPEL [3, 8]
+E: efectos secundarios de las vacunas [24, 29]
+
+Author: LAURA
+P: LA DRA . NADIYA POPEL [3, 8]
+E: daños por exceso de medicamentos [30, 35]
+E: efectos secundarios de las vacunas [24, 29]
+E: otras patologías [36, 38]
+
+Author: MONTSE
+P: LA DRA . NADIYA POPEL [3, 8]
+E: efectos secundarios de las vacunas [24, 29]
+

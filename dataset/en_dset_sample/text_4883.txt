@@ -1,0 +1,20 @@
+# AlexJonesShow LIVE : CDC Declares Vaxxed Spreading Covid As Much As Unvaccinated While DOJ Says Mandates Are Legal !   TUNE IN : https :// ifw . io / e6455d   CALL NOW : ( 877 ) 789 - 4475 |   Listen Line : 605 - 562 - 6325   Sign Up For Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 637 - 4788 New ! Hair & Beard Support For Men : https :// www . infowarsstore . com / hair - and - beard - support 
+
+Binary Class: Critical
+
+Author: gold_label
+P: AlexJonesShow [1, 2]
+P: infowarsstore [86, 87]
+
+Author: DAVID
+A: DOJ [14, 15]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [86, 87]
+E: Vaxxed Spreading Covid As Much As Unvaccinated [6, 13]
+
+Author: francesca
+F: DOJ [14, 15]
+A: CDC [4, 5]
+P: AlexJonesShow [1, 2]
+P: infowarsstore [86, 87]
+

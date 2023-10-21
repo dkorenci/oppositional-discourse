@@ -1,0 +1,35 @@
+  Well this is sad . The guys brother was on TV saying he must have been killed and he was in perfect health . I wonder if they are asking questions about the jabs yet … since they are causing heart issues all around the world . The article , as always , makes the elephant in the room even bigger by completely dismissing the topic . “ The wife of prominent soccer journalist Mason Rush said Wednesday that the writer ’s death last week while covering the World Cup was caused by the sudden rupture of an aortic aneurysm . Carrie Founded said the diagnosis was determined in an autopsy conducted by the medical examiner ’s office in New York City , where she and Rush lived . She said there was no reason to suspect anything suspicious about her husband ’s death . His death was unrelated to COVID . His death was unrelated to vaccination status . There was nothing nefarious about his death . ” 
+
+Binary Class: Critical
+
+Author: gold_label
+V: Rush [76, 77]
+V: the writer [80, 82]
+E: heart issues [41, 43]
+E: the sudden rupture of an aortic aneurysm [94, 101]
+
+Author: francesca
+P: The wife of prominent soccer journalist Mason Rush [69, 77]
+V: Rush [76, 77]
+V: the writer [80, 82]
+V: her husband [141, 143]
+V: Carrie Founded [102, 104]
+V: death [83, 84]
+V: The guys brother [6, 9]
+E: been killed [16, 18]
+E: the sudden rupture of an aortic aneurysm [94, 101]
+E: death [144, 145]
+E: His death [153, 155]
+E: His death [146, 148]
+E: his death [166, 168]
+E: heart issues [41, 43]
+
+Author: DAVID
+F: the medical examiner ’s office in New York City [114, 123]
+V: Rush [76, 77]
+V: the writer [80, 82]
+V: prominent soccer journalist Mason Rush [72, 77]
+E: the writer ’s death last week while covering the World Cup [80, 91]
+E: heart issues [41, 43]
+E: the sudden rupture of an aortic aneurysm [94, 101]
+

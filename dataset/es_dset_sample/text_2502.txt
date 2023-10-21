@@ -1,0 +1,48 @@
+Hola , soy Silvita . Trabajando dos años casi con muchos colectivos , apoyando por la inspiración que ha supuesto saber que podía poner mi granito de arena . He aprendido tanto .... Doy gracias a todos mis compañeros y compañeras de viaje . Ha sido un placer en la mayoría infinita y he aprendido una barbaridad ... He encontrado muchos seres magníficos de los que espero estar cerca de alguna manera . Me he retirado por agotamiento y circunstancias personales vitales sin atender por ello . Llevo muchos años con una hija con algunos problema de daños inducido por un error médico . He tenido que pasar por maltrato , acoso , difamaciones y situaciones muy desagradables . Cuando se iniciaron las clases con mascarillas , por su patología decidí no ponérsela , y al no estar recogida en las exenciones legales que ellos han desarrollado , nos abrieron expediente de absentismo , con lo que ello conlleva . Además de no poder apenas trabajar por tenerla en casa . Ha sido absolutamente agotador ...... Ahora el otro progenitor me denuncia para conseguir la CUSTODIA y ponerle TODAS las vacunas . Además de renegar a los tratamientos naturales y de nutrición que han dado muy buenos resultados , quiere tratarla con la medicina más agresiva , con medicamento en seguimiento , por no tener suficientes datos(TRIANGULO NEGRO , COMO EN LAS VACUNAS COV ... ) . En un foro del mismo ( ya cerrado ) comentaban como sus hijos padecían peligrosos efectos secundarios .... Ahora , no es plato de buen gusto , me ha costado mucho decidirme , tras muchos días digiriendo la noticia . Es difícil para mi recurrir a pedir ayuda , pero de momento , pese a mis esfuerzos no he encontrado otra manera de poder reunir los recursos para librar esta batalla legal en su defensa . Estoy buscando todas las posibilidades , si necesitas o sabes de algún trabajo con gente de confianza que sea compatible con una peque porfavor llámame ! ! ! Soy consciente que me enfrento y me he enfrentado al sistema al completo sin vacilar . Una abogada va a llevar el caso pero nuestra economía en estos momentos no puede sostener gastos . Son muchos desplazamientos , además de que vivimos a las afueras , mucha papelería , muchas gestiones para su defensa . El objetivo es , además de protegerla , conseguir JURISPRUDENCIA para MUCHAS FAMILIAS que se ven en circunstancias similares . Sería mi manera de seguir en la brecha , de momento , ya que quisiera reincorporarme al completo . Mi abogada lo llama Probono , es decir , cobra lo mínimo , pero las costas han de cubrirse . Es una mujer MUY comprometida y su despacho , con la causa de todos .... no ha venido para enriquecerse . Es del equipo . Desde aquí , ruego apoyo de la manera que se os ocurra . Sería MUY importante recabar toda la jurisprudencia , informes de todo tipo , lo último de VAERS .... Todo lo que vuestra inventiva pueda imaginar sobre estos temas o cualquier idea que pudierais enviar . Estamos en Sevilla . Si la intención es hacer un ingreso lo comentamos y vemos cómo puedo compensarte . No me sale poner aquí un número de cuenta , sinceramente . A cambio , ya que creo es mejor intercambiar de alguna también , me ofrezco a alojamiento y / o trueque de la forma que encontremos mejor para ambas partes . En los periodos de verano de sus estancias con el padre me puedo desplazar para compensar si fuese el acuerdo . Tengo nociones unas más importantes que otras de albañilería , carpintería , pintura , electricidad , reciclaje , aprovechamiento y organización de espacios . Hacer hogar , cómo los programas que veis de la tele de reformas , dejar una flor en un jarrón al terminar , monto muebles , los de IKEA TAMBIÉN Manejo de algunos animales , trabajo de campo , jardinería , carretillas elevadoras .... También quiromasaje . Retratos a lápiz . Murales según a qué nivel .... Cuido como si fuera para mí , le pongo cariño a las labores . Pregúntame ! Mi teléfono 687533124 , WhatsApp o telegram si no contesto en el momento o si lo prefieres . 
+
+Binary Class: Critical
+
+Author: gold_label
+F: el padre [599, 601]
+F: el otro progenitor [177, 180]
+P: Silvita [3, 4]
+P: una mujer MUY comprometida [456, 460]
+P: Una abogada [357, 359]
+P: del equipo [477, 479]
+P: Mi abogada [435, 437]
+V: sus hijos [248, 250]
+V: una hija con algunos problema de daños inducido por un error médico [91, 103]
+V: MUCHAS FAMILIAS que se ven en circunstancias similares [407, 415]
+E: peligrosos efectos secundarios [251, 254]
+
+Author: LAURA
+F: el padre [599, 601]
+F: el otro progenitor [177, 180]
+P: muchos seres magníficos de los que espero estar cerca de alguna manera [60, 72]
+P: Silvita [3, 4]
+P: muchos colectivos [10, 12]
+P: una mujer MUY comprometida [456, 460]
+P: todos mis compañeros y compañeras de viaje [36, 43]
+P: Una abogada [357, 359]
+P: del equipo [477, 479]
+P: Mi abogada [435, 437]
+V: sus hijos [248, 250]
+V: una hija [91, 93]
+V: MUCHAS FAMILIAS que se ven en circunstancias similares [407, 415]
+E: peligrosos efectos secundarios [251, 254]
+E: algunos problema de daños inducido por un error médico [94, 103]
+
+Author: MONTSE
+F: el padre [599, 601]
+F: el otro progenitor [177, 180]
+P: Mi abogada [435, 437]
+P: su despacho , con la causa de todos [461, 469]
+P: Silvita [3, 4]
+P: una mujer MUY comprometida [456, 460]
+P: Una abogada [357, 359]
+P: del equipo [477, 479]
+V: una hija con algunos problema de daños inducido por un error médico [91, 103]
+V: MUCHAS FAMILIAS que se ven en circunstancias similares [407, 415]
+V: sus hijos [248, 250]
+E: peligrosos efectos secundarios [251, 254]
+

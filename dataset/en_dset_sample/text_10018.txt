@@ -1,0 +1,53 @@
+" Elephant in the Cockpit : Pilot Reveals Worrying Trend Full video : ➨ worldcouncilforhealth . org / multimedia / alex - tang - air - travel " " There is a big elephant in the cockpit now , and that is the risk that has been induced by the regulators allowing these vaccinations into crew , " " the ex Jetstar pilot said . Speaking at General Assembly Meeting # 64 on Monday , November 7 , Captain Alex Tang shared his eye - opening firsthand experience as a pilot during the rollout of the experimental Covid - 19 injections . Alex Tang is a highly experienced pilot who has always taken good care of his health . He holds British , US , and Australian professional Airline Transport Licences , including an FAA Accident Prevention Councillor designation . His total experience is over 35 years , exceeding 23,000 flight hours . When his employer Qantas insisted he take a novel Covid - 19 injection , Alex refused . Qantas fired him . Now , he and other flight crew are taking them to court . Watch his full presentation : ➨ worldcouncilforhealth . org / multimedia / alex - tang - air - travel Find this video clip to share on YouTube , Rumble , Odysee , Gettr , Facebook , and Bitchute .   NEWSLETTER |   JOIN US   Follow WCH : ➨ @ WCH _ org " 
+
+Binary Class: Critical
+
+Author: gold_label
+F: Qantas [156, 157]
+F: his employer Qantas [154, 157]
+A: the regulators [49, 51]
+P: worldcouncilforhealth [193, 194]
+P: worldcouncilforhealth [14, 15]
+P: the ex Jetstar pilot [59, 63]
+P: Alex [79, 80]
+P: Alex Tang [79, 81]
+P: Pilot [6, 7]
+P: WCH [234, 235]
+P: Captain Alex Tang [78, 81]
+P: alex - tang [20, 23]
+
+Author: francesca
+F: Qantas [156, 157]
+F: his employer Qantas [154, 157]
+A: the regulators [49, 51]
+P: Alex [79, 80]
+P: Alex Tang [79, 81]
+P: Pilot [6, 7]
+P: WCH [234, 235]
+P: a highly experienced pilot [105, 109]
+P: Captain Alex Tang [78, 81]
+P: WCH _ org [238, 241]
+P: alex - tang [20, 23]
+P: a pilot [89, 91]
+P: alex - tang [199, 202]
+P: worldcouncilforhealth [193, 194]
+P: worldcouncilforhealth [14, 15]
+P: the ex Jetstar pilot [59, 63]
+V: crew [55, 56]
+
+Author: DAVID
+F: Qantas [156, 157]
+F: his employer Qantas [154, 157]
+A: the regulators [49, 51]
+P: worldcouncilforhealth [193, 194]
+P: worldcouncilforhealth [14, 15]
+P: the ex Jetstar pilot [59, 63]
+P: he and other flight crew [176, 181]
+P: Alex [79, 80]
+P: Alex Tang [79, 81]
+P: Pilot [6, 7]
+P: WCH [234, 235]
+P: Captain Alex Tang [78, 81]
+P: alex - tang [20, 23]
+E: fired him [171, 173]
+

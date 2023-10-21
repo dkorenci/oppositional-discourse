@@ -1,0 +1,25 @@
+This guy wrote his own obituary … CHILLING .   “ I was nothing more than a covid vaccine human guinea pig and the doctors excited to participate in my fascinating progression unto death . If you want to know more , please ask my wife . I wished I would have never gotten vaccinated . If you are not vaccinated , do n’t do it unless you are ready to suffer and die . ” https :// www . habingfamilyfuneralhome . com / obituary / michael - mike - coleman ? fbclid = IwAR1bYIfP4ccfgKwucIsZsFVa9dxAoId510KbtRYWkm3Yr73F3dB2ZdGPOKo 
+
+Binary Class: Critical
+
+Author: gold_label
+F: the doctors [23, 25]
+V: michael - mike - coleman [86, 91]
+E: to suffer and die [70, 74]
+
+Author: DAVID
+F: the doctors [23, 25]
+V: This guy [0, 2]
+V: a covid vaccine human guinea pig [16, 22]
+V: my wife [44, 46]
+V: michael - mike - coleman [86, 91]
+E: my fascinating progression unto death [29, 34]
+E: to suffer and die [70, 74]
+
+Author: francesca
+F: the doctors [23, 25]
+P: habingfamilyfuneralhome [80, 81]
+V: michael - mike - coleman [86, 91]
+E: suffer [71, 72]
+E: die [73, 74]
+

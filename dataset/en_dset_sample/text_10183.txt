@@ -1,0 +1,31 @@
+This post gives an overview of the key observations made by pathologist Prof. Rita Goldstein , MD , on autopsy materials from persons who died within weeks to several months after receiving one of the gene - based COVID vaccines — in most cases , an mRNA vaccine . The collective findings demonstrate that 1 . mRNA vaccines do n’t stay at the injection site by instead travel throughout the body and accumulate in various organs , 2 . mRNA - based COVID vaccines induce long - lasting expression of the SARS - CoV - 2 spike protein in many organs , 3 . vaccine - induced expression of the spike protein induces autoimmune - like inflammation , 4 . vaccine - induced inflammation can cause grave organ damage , especially in vessels , sometimes with deadly outcome . https :// doctors4covidethics . org / vascular - and - organ - damage - induced - by - mrna - vaccines - irrefutable - proof - of - causality / 
+
+Binary Class: Critical
+
+Author: gold_label
+P: pathologist Prof. Rita Goldstein , MD [11, 17]
+V: persons who died within weeks to several months after receiving one of the gene - based COVID vaccines [22, 40]
+E: vaccine - induced expression of the spike protein induces autoimmune - like inflammation [104, 117]
+E: vaccine - induced inflammation can cause grave organ damage , especially in vessels , sometimes with deadly outcome [120, 138]
+E: vascular - and - organ - damage - induced - by - mrna - vaccines [145, 160]
+E: died within weeks to several months after receiving one of the gene - based COVID vaccines — in most cases , an mRNA vaccine [24, 48]
+
+Author: DAVID
+P: pathologist Prof. Rita Goldstein , MD [11, 17]
+V: persons who died within weeks to several months after receiving one of the gene - based COVID vaccines [22, 40]
+E: autoimmune - like inflammation [113, 117]
+E: mRNA vaccines do n’t stay at the injection site by instead travel throughout the body and accumulate in various organs [56, 76]
+E: grave organ damage , especially in vessels , sometimes with deadly outcome [126, 138]
+E: mRNA - based COVID vaccines induce long - lasting expression of the SARS - CoV - 2 spike protein in many organs [79, 101]
+E: vascular - and - organ - damage - induced - by - mrna - vaccines [145, 160]
+E: died within weeks to several months after receiving one of the gene - based COVID vaccines — in most cases , an mRNA vaccine [24, 48]
+
+Author: francesca
+P: doctors4covidethics [141, 142]
+P: pathologist Prof. Rita Goldstein , MD [11, 17]
+V: persons who died within weeks to several months after receiving one of the gene - based COVID vaccines [22, 40]
+E: vaccine - induced inflammation can cause grave organ damage , especially in vessels , sometimes with deadly outcome [120, 138]
+E: vascular - and - organ - damage - induced - by - mrna - vaccines [145, 160]
+E: vaccine - induced expression of the spike protein induces autoimmune - like inflammation [104, 117]
+E: died within weeks to several months after receiving one of the gene - based COVID vaccines [24, 40]
+
