@@ -494,12 +494,6 @@ def load_as_hf_dataset(lang, label, split):
     return dset
 
 if __name__ == '__main__':
-    #parse_json_annotations(SEQLABEL_ANNOTS_EN)
-    #test_loading_raw()
-    #load_annotations_seplabel(SEQLABEL_ANNOTS_EN)
-    #test_json_load('/data/corpora/UPV/xai-disinfo-seqlabel/json/en/V/train.json')
-    #build_json_datasets('/data/corpora/UPV/xai-disinfo-seqlabel/json/es/', 'es')
-    #build_json_datasets(SEQLABEL_ANNOTS_EN_JSON, 'en', test_only=True)
     build_json_datasets(SEQLABEL_ANNOTS_EN_JSON_TEST, 'en', test_only=False, verbose=True,
                         split_method='author-label', rseed=515, test_size=0.35)
     #build_json_datasets(SEQLABEL_ANNOTS_ES_JSON, 'es', test_only=False, split_method='author-label')

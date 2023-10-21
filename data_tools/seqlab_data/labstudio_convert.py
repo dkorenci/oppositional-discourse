@@ -544,12 +544,6 @@ def build_json_datasets(lang='en', rseed=348461, selectx=0.5, test_only=False, s
     ls2hf.build_json_datasets(input_folder, out_folder)
 
 if __name__ == '__main__':
-    #parse_json_annotations(SEQLABEL_ANNOTS_EN_RAW)
-    #test_loading_raw()
-    #load_annotations_seplabel(SEQLABEL_ANNOTS_EN)
-    #test_json_load('/data/corpora/UPV/xai-disinfo-seqlabel/json/en/V/train.json')
-    #build_json_datasets('/data/corpora/UPV/xai-disinfo-seqlabel/json/es/', 'es')
-    #build_json_datasets(SEQLABEL_ANNOTS_EN_JSON, 'en', test_only=True)
     build_json_datasets('en', test_only=False, verbose=False,
                         split_method='stratify', rseed=515, test_size=0.3)
     #build_json_datasets(SEQLABEL_ANNOTS_ES_JSON, 'es', test_only=False, split_method='author-label')

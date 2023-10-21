@@ -111,10 +111,4 @@ def annot_level_aggregate(file):
     df.to_excel(file.replace('.xlsx', '.agg.xlsx'), index=False)
 
 if __name__ == '__main__':
-    #replace_num_words('/data/code/UPV/xaidisinfo/corpus_analysis/en.emo.liwc.dataset.xlsx', 'num_words.1')
-    # emo_vs_critconspi_plot('en', dset_file='/data/code/UPV/xaidisinfo/corpus_analysis/en.emo.liwc.dataset.xlsx',
-    #                       emo_property='anger', ylabel='')
-    # emo_vs_critconspi_plot('es', dset_file='/data/code/UPV/xaidisinfo/corpus_analysis/es.emo.liwc.dataset.xlsx',
-    #                       emo_property='260', ylabel='death')
-    #annot_level_aggregate('/home/damirko/podaci/posao/projekti/UPV/conspi-paper/data-analysis/TWO_LAN_DATA_2.xlsx')
     emo_vs_critconspi_plot('es', 'es.violence.dataset.xlsx', emo_property='violence_index', ylabel='violence')
