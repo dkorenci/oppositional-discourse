@@ -3,8 +3,6 @@
 This repository contains the data and code for the paper:
 What Distinguishes Conspiracy from Critical Narratives? A Computational Analysis of Oppositional Discourse
 
-Access is hereby granted only to the reviewers from the COLING-LREC 2024 conference.
-
 Upon paper publication, the code will be released under an open-source license, 
 and the full dataset will be released under a CreativeCommons license.
 
