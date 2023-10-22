@@ -2,7 +2,7 @@ This post gives an overview of the key observations made by pathologist Prof. Ri
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: pathologist Prof. Rita Goldstein , MD [11, 17]
 V: persons who died within weeks to several months after receiving one of the gene - based COVID vaccines [22, 40]
 E: vaccine - induced expression of the spike protein induces autoimmune - like inflammation [104, 117]
@@ -10,7 +10,7 @@ E: vaccine - induced inflammation can cause grave organ damage , especially in v
 E: vascular - and - organ - damage - induced - by - mrna - vaccines [145, 160]
 E: died within weeks to several months after receiving one of the gene - based COVID vaccines — in most cases , an mRNA vaccine [24, 48]
 
-Author: DAVID
+Author: annotator1
 P: pathologist Prof. Rita Goldstein , MD [11, 17]
 V: persons who died within weeks to several months after receiving one of the gene - based COVID vaccines [22, 40]
 E: autoimmune - like inflammation [113, 117]
@@ -20,7 +20,7 @@ E: mRNA - based COVID vaccines induce long - lasting expression of the SARS - Co
 E: vascular - and - organ - damage - induced - by - mrna - vaccines [145, 160]
 E: died within weeks to several months after receiving one of the gene - based COVID vaccines — in most cases , an mRNA vaccine [24, 48]
 
-Author: francesca
+Author: annotator2
 P: doctors4covidethics [141, 142]
 P: pathologist Prof. Rita Goldstein , MD [11, 17]
 V: persons who died within weeks to several months after receiving one of the gene - based COVID vaccines [22, 40]

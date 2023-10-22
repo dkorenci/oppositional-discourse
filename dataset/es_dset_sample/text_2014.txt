@@ -2,18 +2,18 @@ Charlas - Coloquio sobre * " Ventajas e Inconvenientes de la Vacunación Infanti
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: la Pediatra Dra Agnes Palau con más de 35 años de experiencia . Miembro de Médicos por la Verdad España [70, 90]
 P: Dr. Angel Ruiz - Valdepeñas Esp . en Medicina Familiar y Comunitaria Cofundador de Médicos por la Verdad [19, 37]
 
-Author: LAURA
+Author: annotator1
 P: Miembro de Médicos por la Verdad España [83, 90]
 P: Esp . en Medicina Familiar y Comunitaria [24, 31]
 P: Cofundador de Médicos por la Verdad [31, 37]
 P: la Pediatra Dra Agnes Palau [70, 75]
 P: Dr. Angel Ruiz - Valdepeñas [19, 24]
 
-Author: MONTSE
+Author: annotator2
 P: Dr. Angel Ruiz - Valdepeñas Esp . en Medicina Familiar y Comunitaria Cofundador de Médicos por la Verdad [19, 37]
 P: la Pediatra Dra Agnes Palau con más de 35 años de experiencia . Miembro de Médicos por la Verdad España [70, 90]
 

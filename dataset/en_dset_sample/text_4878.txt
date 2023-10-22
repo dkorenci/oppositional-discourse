@@ -2,20 +2,20 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: AlexJonesShow [1, 2]
 P: infowarsstore [88, 89]
 V: 2.6 Billion People [17, 20]
 E: COVID Vaccine - Induced Mutations May Kill 2.6 Billion People [10, 20]
 
-Author: DAVID
+Author: annotator1
 A: British Gov’t [7, 9]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [88, 89]
 V: 2.6 Billion People [17, 20]
 E: May Kill 2.6 Billion People [15, 20]
 
-Author: francesca
+Author: annotator2
 P: AlexJonesShow [1, 2]
 P: British Gov’t [7, 9]
 P: infowarsstore [88, 89]

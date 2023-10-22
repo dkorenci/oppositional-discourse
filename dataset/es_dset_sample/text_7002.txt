@@ -2,17 +2,17 @@ CONSULTA PRESENCIAL DE LA DRA . NADIYA POPEL EN BALAGUER , LOS DÍAS 14 - 15 - 1
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: LA DRA . NADIYA POPEL [3, 8]
 E: efectos secundarios de las vacunas [24, 29]
 
-Author: LAURA
+Author: annotator1
 P: LA DRA . NADIYA POPEL [3, 8]
 E: daños por exceso de medicamentos [30, 35]
 E: efectos secundarios de las vacunas [24, 29]
 E: otras patologías [36, 38]
 
-Author: MONTSE
+Author: annotator2
 P: LA DRA . NADIYA POPEL [3, 8]
 E: efectos secundarios de las vacunas [24, 29]
 

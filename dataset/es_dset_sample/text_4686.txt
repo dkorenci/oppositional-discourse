@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 V: Una profesora que maldijo a los no vacunados y les acusó de convertir la “ vida en un infierno para mucha gente ” [2, 25]
 V: Malen Kroate Meislow [35, 38]
 E: un brazo dolorido [138, 141]
@@ -10,7 +10,7 @@ E: Malen Kroate Meislow fallecía [217, 221]
 E: fallece [25, 26]
 E: un brazo dolorido [119, 122]
 
-Author: LAURA
+Author: annotator1
 F: Kroate [36, 37]
 F: Malen Kroate Meislow [35, 38]
 F: Una profesora [2, 4]
@@ -23,7 +23,7 @@ E: Malen Kroate Meislow fallecía [217, 221]
 E: fallece [25, 26]
 E: un brazo dolorido [119, 122]
 
-Author: MONTSE
+Author: annotator2
 A: Pfizer [54, 55]
 A: Pfizer [135, 136]
 P: los no vacunados [197, 200]

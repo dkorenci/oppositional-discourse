@@ -2,7 +2,7 @@ Fully Vaccinated 27 - Year - Old Ohio State University Student “ Died Suddenly
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: Ohio State University [46, 49]
 F: Ohio State University [7, 10]
 F: Ohio State University [33, 36]
@@ -17,7 +17,7 @@ E: experienced a medical issue while riding on a course and later died [83, 95]
 E: he had a heart - related medical issue at mile 100 of his 102 - mile ride [108, 125]
 E: Died Suddenly [12, 14]
 
-Author: DAVID
+Author: annotator1
 F: Ohio State University [46, 49]
 F: Ohio State University [7, 10]
 F: Ohio State University [33, 36]
@@ -33,7 +33,7 @@ E: experienced a medical issue while riding on a course and later died [83, 95]
 E: he had a heart - related medical issue at mile 100 of his 102 - mile ride [108, 125]
 E: Died Suddenly [12, 14]
 
-Author: francesca
+Author: annotator2
 F: Ohio State University [7, 10]
 F: Ohio State University [46, 49]
 F: Ohio State University [33, 36]

@@ -1,0 +1,26 @@
+Jab widow Meryl Cran tells Maajid Nawaz she submitted a Freedom of Information Request to UK gov on why vaccine makers have indemnity : Meryl : “ They have literally said ... we know things that if we told the public they would n't want to get these vaccines so we 're not going to tell you ” ! @ covid 
+
+Binary Class: Critical
+
+Author: GOLD
+A: vaccine makers [19, 21]
+A: UK gov [15, 17]
+V: the public [39, 41]
+V: Meryl [2, 3]
+
+Author: annotator1
+A: vaccine makers [19, 21]
+A: UK gov [15, 17]
+V: Jab widow Meryl Cran [0, 4]
+V: the public [39, 41]
+V: Meryl [2, 3]
+E: vaccine makers have indemnity [19, 23]
+
+Author: annotator2
+A: UK gov [15, 17]
+A: vaccine makers [19, 21]
+P: Jab widow Meryl Cran [0, 4]
+P: Maajid Nawaz [5, 7]
+V: Meryl [2, 3]
+V: the public [39, 41]
+

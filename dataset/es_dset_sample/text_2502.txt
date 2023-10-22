@@ -2,7 +2,7 @@ Hola , soy Silvita . Trabajando dos años casi con muchos colectivos , apoyando 
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: el padre [599, 601]
 F: el otro progenitor [177, 180]
 P: Silvita [3, 4]
@@ -15,7 +15,7 @@ V: una hija con algunos problema de daños inducido por un error médico [91, 10
 V: MUCHAS FAMILIAS que se ven en circunstancias similares [407, 415]
 E: peligrosos efectos secundarios [251, 254]
 
-Author: LAURA
+Author: annotator1
 F: el padre [599, 601]
 F: el otro progenitor [177, 180]
 P: muchos seres magníficos de los que espero estar cerca de alguna manera [60, 72]
@@ -32,7 +32,7 @@ V: MUCHAS FAMILIAS que se ven en circunstancias similares [407, 415]
 E: peligrosos efectos secundarios [251, 254]
 E: algunos problema de daños inducido por un error médico [94, 103]
 
-Author: MONTSE
+Author: annotator2
 F: el padre [599, 601]
 F: el otro progenitor [177, 180]
 P: Mi abogada [435, 437]

@@ -2,19 +2,19 @@ PONENCIA : DRA . NATALIA PREGO CANCELO " Orientaciones Terapéuticas frente a lo
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: Médicos Por la Verdad [35, 39]
 P: DRA . NATALIA PREGO CANCELO [2, 7]
 E: los efectos de las “ Vacunas ” COVID - 19 " [12, 23]
 
-Author: LAURA
+Author: annotator1
 P: DRA . NATALIA PREGO CANCELO [2, 7]
 P: Médicos Por la Verdad [35, 39]
 E: secuelas " inyectable " covid - 19 [77, 84]
 E: los efectos de las “ Vacunas ” COVID - 19 [12, 22]
 E: posibles sobre - infecciones bacterianas , principalmente agravadas por utilización de mascarillas [96, 108]
 
-Author: XAVI
+Author: annotator2
 P: Médicos Por la Verdad [35, 39]
 P: DRA . NATALIA PREGO [2, 6]
 E: los efectos de las “ Vacunas ” COVID - 19 " [12, 23]

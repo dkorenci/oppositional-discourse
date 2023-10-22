@@ -2,7 +2,7 @@
 
 Binary Class: Conspiracy
 
-Author: gold_label
+Author: GOLD
 F: otros médicos [123, 125]
 A: el sistema [157, 159]
 P: el Dr. Robert Adler [278, 282]
@@ -11,7 +11,7 @@ P: La Dra. Mary Mowdin [77, 81]
 V: más de 3900 pacientes [139, 143]
 V: mis pacientes [104, 106]
 
-Author: LAURA
+Author: annotator1
 F: otros médicos [123, 125]
 A: la FDA [25, 27]
 A: la FDA [71, 73]
@@ -33,7 +33,7 @@ V: mis pacientes [104, 106]
 E: un grave efecto paralizante en el uso de medicamentos que salvan vidas para una enfermedad mortal [316, 332]
 E: miles de muertes y discapacidades graves [268, 274]
 
-Author: MONTSE
+Author: annotator2
 F: otros médicos [123, 125]
 F: la FDA [339, 341]
 F: la FDA [25, 27]

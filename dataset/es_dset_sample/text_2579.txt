@@ -2,12 +2,12 @@ LA " VACUNA " ESPAÑOLA CONTRA EL CORONAVIRUS PROTEGE CONTRA LA VIRUELA DEL MONO
 
 Binary Class: Conspiracy
 
-Author: gold_label
+Author: GOLD
 F: El CANAL DE TV AM - TEMER 5 [50, 58]
 
-Author: MONTSE
+Author: annotator2
 F: El CANAL DE TV AM - TEMER 5 [50, 58]
 
-Author: LAURA
+Author: annotator1
 F: El CANAL DE TV AM - TEMER 5 [50, 58]
 

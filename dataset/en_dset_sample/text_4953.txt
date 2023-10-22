@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 A: DARPA [4, 5]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [88, 89]
@@ -10,7 +10,7 @@ P: freeworldnews [24, 25]
 P: alex - jones [32, 35]
 E: “ Superhero Vaccine ” That Takes Over Entire Human Body [6, 16]
 
-Author: DAVID
+Author: annotator1
 A: DARPA [4, 5]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [88, 89]
@@ -18,7 +18,7 @@ P: freeworldnews [24, 25]
 P: alex - jones [32, 35]
 E: “ Superhero Vaccine ” That Takes Over Entire Human Body [6, 16]
 
-Author: francesca
+Author: annotator2
 A: DARPA [4, 5]
 P: alex - jones [32, 35]
 P: AlexJonesShow [1, 2]

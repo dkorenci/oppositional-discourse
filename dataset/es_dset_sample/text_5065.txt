@@ -1,0 +1,48 @@
+Víctimas de la vacunación forzosa : un tribunal italiano condena por primera vez al Estado a pagar una indemnización por daños y perjuicios Tragedia en Génova : A principios de abril de 2021 , Francisca Lorzano , de 32 años , se inyectó una dosis de la vacuna de AstraZeneca . Como profesora , estaba obligada a hacerlo debido a un requisito de vacunación relacionado con el trabajo . 24 horas después , muere en una unidad de cuidados intensivos . Un examen médico forense reveló : la joven murió de una trombosis cerebral , como efecto secundario de la vacunación genética . La familia recibió una " indemnización " de 77.468,53 euros . Es la primera vez que un tribunal obliga al Estado a pagar una multa por los daños causados por las vacunas . La familia quiere ganar una suma mayor demandando al Estado italiano . Ahora los tribunales italianos deben decidir sobre casos similares : Casos de mujeres a menudo jóvenes en profesiones educativas que enfermaron gravemente o murieron a causa de la vacunación forzada . ¿ El comienzo de una gran ola de demandas ? 
+
+Binary Class: Critical
+
+Author: GOLD
+A: al Estado italiano [144, 147]
+A: al Estado [122, 124]
+A: al Estado [13, 15]
+V: la joven [87, 89]
+V: Francisca Lorzano [34, 36]
+V: Víctimas de la vacunación forzosa [0, 5]
+V: mujeres a menudo jóvenes en profesiones educativas [160, 167]
+E: enfermaron gravemente [168, 170]
+E: murieron [171, 172]
+E: muere en una unidad de cuidados intensivos [73, 80]
+E: la joven murió de una trombosis cerebral [87, 94]
+
+Author: annotator1
+A: al Estado italiano [144, 147]
+A: al Estado [122, 124]
+A: al Estado [13, 15]
+V: la joven [87, 89]
+V: Francisca Lorzano [34, 36]
+V: La familia recibió [103, 106]
+V: Víctimas de la vacunación forzosa [0, 5]
+V: La familia [103, 105]
+V: mujeres a menudo jóvenes en profesiones educativas [160, 167]
+E: enfermaron gravemente [168, 170]
+E: murieron [171, 172]
+E: muere en una unidad de cuidados intensivos [73, 80]
+E: daños y perjuicios [20, 23]
+E: efecto secundario de la vacunación genética [96, 102]
+E: la joven murió de una trombosis cerebral [87, 94]
+E: los daños causados por las vacunas [129, 135]
+
+Author: annotator2
+A: al Estado [122, 124]
+A: al Estado [13, 15]
+A: al Estado italiano [144, 147]
+V: la joven [87, 89]
+V: Francisca Lorzano [34, 36]
+V: Víctimas de la vacunación forzosa [0, 5]
+V: mujeres a menudo jóvenes en profesiones educativas [160, 167]
+E: enfermaron gravemente [168, 170]
+E: muere [73, 74]
+E: murieron [171, 172]
+E: una trombosis cerebral [91, 94]
+

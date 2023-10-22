@@ -2,14 +2,14 @@ Hola buenos días . Como estan ? Bueno les dejamos esta Cartilla de Vacunacion p
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: Cristina C . Marinos y familia [47, 53]
 
-Author: MONTSE
+Author: annotator2
 P: Cristina C . Marinos y familia [47, 53]
 V: nuestra hija [37, 39]
 V: nuestra bebita [23, 25]
 
-Author: LAURA
+Author: annotator1
 P: Cristina C . Marinos y familia [47, 53]
 

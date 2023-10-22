@@ -2,21 +2,21 @@ BarcelonaEsMou   LIBERUM INFORMA   Os solicitamos que compartáis este mensaje p
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: LIBERUM [2, 3]
 V: los niños [23, 25]
 V: los afectados [48, 50]
 V: los menores [34, 36]
 E: algún caso de efectos adversos en los menores [28, 36]
 
-Author: LAURA
+Author: annotator1
 P: LIBERUM [2, 3]
 V: los afectados [48, 50]
 V: los niños [23, 25]
 V: los menores [34, 36]
 E: algún caso de efectos adversos en los menores [28, 36]
 
-Author: XAVI
+Author: annotator2
 P: LIBERUM [2, 3]
 V: los niños [23, 25]
 V: los afectados [48, 50]

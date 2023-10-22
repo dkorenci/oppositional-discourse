@@ -2,18 +2,18 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: el " periodista " José Juan Grana [7, 14]
 V: los no vacunados [31, 34]
 
-Author: LAURA
+Author: annotator1
 F: el " periodista " José Juan Grana [7, 14]
 P: El fiscal de la denuncia contra el " periodista " José Juan Grana [1, 14]
 V: los no vacunados [31, 34]
 E: el delito de odio [24, 28]
 E: discriminación [29, 30]
 
-Author: MONTSE
+Author: annotator2
 F: el " periodista " José Juan Grana [7, 14]
 V: los no vacunados [31, 34]
 

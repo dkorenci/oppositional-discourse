@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 A: El sistema [72, 74]
 P: WEB   GRUPO   CANAL [99, 104]
 V: las víctimas de las vacunas [77, 82]
@@ -11,7 +11,7 @@ V: las personas que sufren SECUELAS y DAÑOS por las VACUNAS [61, 71]
 V: AFECTADOS [3, 4]
 E: SECUELAS y DAÑOS [65, 68]
 
-Author: MONTSE
+Author: annotator2
 A: El sistema [72, 74]
 P: WEB   GRUPO   CANAL [99, 104]
 V: las personas que sufren SECUELAS y DAÑOS por las VACUNAS [61, 71]
@@ -20,7 +20,7 @@ V: las víctimas de las vacunas [77, 82]
 V: los afectados [17, 19]
 E: SECUELAS y DAÑOS [65, 68]
 
-Author: LAURA
+Author: annotator1
 A: El sistema [72, 74]
 P: GRUPO   CANAL [101, 104]
 V: las víctimas de las vacunas [77, 82]

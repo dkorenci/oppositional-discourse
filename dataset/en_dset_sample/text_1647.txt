@@ -1,0 +1,22 @@
+Ashley Samson ’s Mother Died From The Covid Vaccine - Confirmed By Autopsy   “ Can we talk about vaccine injures and deaths yet ! My mum 's death certificate stating VITT after the covid - 19 vaccine . ” ( Source ) t . me / covidbc 
+
+Binary Class: Critical
+
+Author: GOLD
+V: Ashley Samson ’s Mother [0, 4]
+E: vaccine injures and deaths [19, 23]
+E: Ashley Samson ’s Mother Died From The Covid Vaccine [0, 9]
+
+Author: annotator1
+V: Ashley Samson ’s Mother [0, 4]
+V: My mum [25, 27]
+E: vaccine injures and deaths [19, 23]
+E: Ashley Samson ’s Mother Died From The Covid Vaccine [0, 9]
+E: VITT after the covid - 19 vaccine [31, 38]
+
+Author: annotator2
+V: Ashley Samson ’s Mother [0, 4]
+E: vaccine injures and deaths [19, 23]
+E: Died From The Covid Vaccine [4, 9]
+E: My mum [25, 27]
+

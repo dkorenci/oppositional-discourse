@@ -2,18 +2,18 @@
 
 Binary Class: Conspiracy
 
-Author: gold_label
+Author: GOLD
 P: AlexJonesShow [1, 2]
 P: infowarsstore [82, 83]
 P: alex - jones [29, 32]
 
-Author: DAVID
+Author: annotator1
 F: media [86, 87]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [82, 83]
 P: alex - jones [29, 32]
 
-Author: francesca
+Author: annotator2
 F: The Media [69, 71]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [82, 83]

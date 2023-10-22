@@ -1,0 +1,15 @@
+CONSULTAS DE OZONOTERAPIA EN MADRID Abrimos consultas sobre ozonoterapia en Madrid .   Tratamiento de Covid y Efectos Secundarios de las vacunas . Terapia de enfermedades degenerativas . Aumenta rendimiento físico . Información :   674674129 ( Alba )   ÚNETE A NUESTRO CANAL :   t . me / movimiento _ asistencia _ integral   www . movimiento - asistencia - integral . com # RedDeApoyo # MovimientoPorElCambio # AsistenciaIntegral # Ozonoterapia 
+
+Binary Class: Critical
+
+Author: GOLD
+E: Efectos Secundarios de las vacunas [17, 22]
+
+Author: annotator1
+P: NUESTRO CANAL [42, 44]
+E: enfermedades degenerativas [25, 27]
+E: Efectos Secundarios de las vacunas [17, 22]
+
+Author: annotator2
+E: Efectos Secundarios de las vacunas [17, 22]
+

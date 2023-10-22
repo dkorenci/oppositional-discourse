@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: los políticos [33, 35]
 P: El mediático Dr. Zaballos [1, 5]
 P: Ricardo Sánchez [17, 19]
@@ -10,7 +10,7 @@ P: los negacionistas [52, 54]
 P: Angel Bonet [14, 16]
 V: fallecidos [10, 11]
 
-Author: XAVI
+Author: annotator2
 F: los políticos [33, 35]
 P: El mediático Dr. Zaballos [1, 5]
 P: Ricardo Sánchez [17, 19]
@@ -19,7 +19,7 @@ P: Angel Bonet [14, 16]
 V: fallecidos [10, 11]
 E: un gerontocidio [29, 31]
 
-Author: LAURA
+Author: annotator1
 F: los políticos [33, 35]
 P: Ricardo Sánchez [17, 19]
 P: los negacionistas [52, 54]

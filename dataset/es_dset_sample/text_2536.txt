@@ -2,14 +2,14 @@ Para todos aquellos que no están de acuerdo como yo con estas vacunas obligator
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: un médico capaz de proporcionarles un certificado de vacunas o una prueba de PCR sin ninguna inyección [22, 39]
 
-Author: MONTSE
+Author: annotator2
 P: todos aquellos que no están de acuerdo como yo con estas vacunas obligatorias [1, 14]
 P: un médico capaz de proporcionarles un certificado de vacunas o una prueba de PCR sin ninguna inyección [22, 39]
 
-Author: LAURA
+Author: annotator1
 P: un médico capaz de proporcionarles un certificado de vacunas o una prueba de PCR sin ninguna inyección [22, 39]
 P: bloum _ pass [43, 46]
 

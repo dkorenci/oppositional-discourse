@@ -1,0 +1,28 @@
+# AlexJonesShow LIVE : Breaking ! World Champ Marvelous Jordan Waters Killed By COVID Vaccine ! - https :// ifw . io / 535b6   Subscribe To Live Broadcast Alerts ! - Text : ' SHOW ' To : ( 833 ) 470 - 0222   Final Hours ! # Infowars Essentials Sale : https :// www . infowarsstore . com / specials - clearance / infowars - essentials - sale 
+
+Binary Class: Critical
+
+Author: GOLD
+P: AlexJonesShow [1, 2]
+P: infowars [66, 67]
+P: infowarsstore [58, 59]
+P: Infowars [50, 51]
+V: World Champ Marvelous Jordan Waters [6, 11]
+E: Killed By COVID Vaccine [11, 15]
+
+Author: annotator1
+P: AlexJonesShow [1, 2]
+P: infowars [66, 67]
+P: infowarsstore [58, 59]
+P: Infowars [50, 51]
+V: World Champ Marvelous Jordan Waters [6, 11]
+E: Killed By COVID Vaccine [11, 15]
+
+Author: annotator2
+P: AlexJonesShow [1, 2]
+P: infowars [66, 67]
+P: infowarsstore [58, 59]
+P: Infowars [50, 51]
+V: World Champ Marvelous Jordan Waters [6, 11]
+E: Killed By COVID Vaccine [11, 15]
+

@@ -2,17 +2,17 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: AlexJonesShow [1, 2]
 P: infowarsstore [86, 87]
 
-Author: DAVID
+Author: annotator1
 A: DOJ [14, 15]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [86, 87]
 E: Vaxxed Spreading Covid As Much As Unvaccinated [6, 13]
 
-Author: francesca
+Author: annotator2
 F: DOJ [14, 15]
 A: CDC [4, 5]
 P: AlexJonesShow [1, 2]

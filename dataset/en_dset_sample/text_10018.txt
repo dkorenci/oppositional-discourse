@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: Qantas [156, 157]
 F: his employer Qantas [154, 157]
 A: the regulators [49, 51]
@@ -16,7 +16,7 @@ P: WCH [234, 235]
 P: Captain Alex Tang [78, 81]
 P: alex - tang [20, 23]
 
-Author: francesca
+Author: annotator2
 F: Qantas [156, 157]
 F: his employer Qantas [154, 157]
 A: the regulators [49, 51]
@@ -35,7 +35,7 @@ P: worldcouncilforhealth [14, 15]
 P: the ex Jetstar pilot [59, 63]
 V: crew [55, 56]
 
-Author: DAVID
+Author: annotator1
 F: Qantas [156, 157]
 F: his employer Qantas [154, 157]
 A: the regulators [49, 51]

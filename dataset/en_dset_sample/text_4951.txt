@@ -2,20 +2,20 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: CNN Overlords [14, 16]
 P: AlexJonesShow [1, 2]
 P: alex - jones [30, 33]
 P: infowarsstore [67, 68]
 
-Author: DAVID
+Author: annotator1
 F: CNN Overlords [14, 16]
 P: AlexJonesShow [1, 2]
 P: alex - jones [30, 33]
 P: banthis [22, 23]
 P: infowarsstore [67, 68]
 
-Author: francesca
+Author: annotator2
 F: CNN Overlords [14, 16]
 P: AlexJonesShow [1, 2]
 P: infowarsstore [67, 68]

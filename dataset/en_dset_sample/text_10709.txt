@@ -2,12 +2,12 @@ This guy wrote his own obituary … CHILLING .   “ I was nothing more than a c
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: the doctors [23, 25]
 V: michael - mike - coleman [86, 91]
 E: to suffer and die [70, 74]
 
-Author: DAVID
+Author: annotator1
 F: the doctors [23, 25]
 V: This guy [0, 2]
 V: a covid vaccine human guinea pig [16, 22]
@@ -16,7 +16,7 @@ V: michael - mike - coleman [86, 91]
 E: my fascinating progression unto death [29, 34]
 E: to suffer and die [70, 74]
 
-Author: francesca
+Author: annotator2
 F: the doctors [23, 25]
 P: habingfamilyfuneralhome [80, 81]
 V: michael - mike - coleman [86, 91]

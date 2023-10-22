@@ -2,17 +2,17 @@ WATCH LIVE : Alex Jones Breaks Down What Trump Is Really Planning To Do With The
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: infowarsstore [68, 69]
 P: Alex Jones [3, 5]
 
-Author: DAVID
+Author: annotator1
 P: Trump [8, 9]
 P: ifw [27, 28]
 P: infowarsstore [68, 69]
 P: Alex Jones [3, 5]
 
-Author: francesca
+Author: annotator2
 P: Infowars [64, 65]
 P: infowarsstore [68, 69]
 P: Alex Jones [3, 5]

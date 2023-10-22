@@ -2,7 +2,7 @@ The Alex Jones Show LIVE : Day One Of World Government Summit In Geneva , NWO Cr
 
 Binary Class: Conspiracy
 
-Author: gold_label
+Author: GOLD
 A: NWO Crime Syndicate [15, 18]
 P: theinfowar [40, 41]
 P: alex - jones [48, 51]
@@ -10,7 +10,7 @@ P: InfowarsTees [76, 77]
 P: Alex Jones [1, 3]
 P: Infowars [74, 75]
 
-Author: DAVID
+Author: annotator1
 A: World Government [9, 11]
 A: NWO Crime Syndicate [15, 18]
 P: theinfowar [40, 41]
@@ -19,7 +19,7 @@ P: InfowarsTees [76, 77]
 P: Alex Jones [1, 3]
 P: Infowars [74, 75]
 
-Author: francesca
+Author: annotator2
 A: NWO Crime Syndicate [15, 18]
 P: Infowars [74, 75]
 P: theinfowar [40, 41]

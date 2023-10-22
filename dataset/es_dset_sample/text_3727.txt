@@ -2,15 +2,15 @@ Llamamiento URGENTE ! ! ! En el Toro TV han pedido que la gente envíe sus testi
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: el Toro TV [6, 9]
 E: efectos adversos de las vacunas [18, 23]
 
-Author: LAURA
+Author: annotator1
 P: el Toro TV [6, 9]
 E: efectos adversos de las vacunas [18, 23]
 
-Author: MONTSE
+Author: annotator2
 P: el Toro TV [6, 9]
 E: efectos adversos de las vacunas [18, 23]
 

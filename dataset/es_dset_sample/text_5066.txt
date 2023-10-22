@@ -2,7 +2,7 @@ Dr. Mateo Ruiz - Valdeperas Canal Difusión : Carmen Satori Cossi Laquemana , de
 
 Binary Class: Conspiracy
 
-Author: gold_label
+Author: GOLD
 F: sus medios de comunicación [130, 134]
 A: la élite de banqueros mundialistas ( EL GRAN HERMANO ) [117, 127]
 P: Dr. Mateo Ruiz - Valdeperas [0, 5]
@@ -12,7 +12,7 @@ E: falleció inesperadamente [17, 19]
 E: efectos adversos [68, 70]
 E: muertes posteriores a la " inyección " [71, 78]
 
-Author: MONTSE
+Author: annotator2
 F: sus medios de comunicación [130, 134]
 A: EL GRAN HERMANO [123, 126]
 A: la élite de banqueros mundialistas [117, 122]
@@ -24,7 +24,7 @@ E: efectos adversos [68, 70]
 E: muertes [71, 72]
 E: falleció inesperadamente [17, 19]
 
-Author: LAURA
+Author: annotator1
 F: El ciudadano borrego medio [87, 91]
 F: sus medios de comunicación [130, 134]
 A: la élite de banqueros mundialistas ( EL GRAN HERMANO ) [117, 127]

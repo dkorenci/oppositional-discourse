@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: Coordinadora de acciones colectivas en todo el país y países aledaños [87, 98]
 P: los Coordinadores de grupos de Efectos Adversos de las Vacunas [15, 25]
 P: sus conocidos que administren o participen activamente en grupos de la temática de efectos adversos [128, 143]
@@ -10,7 +10,7 @@ P: Coordinadores colectivos [84, 86]
 E: Efectos Adversos de las Vacunas [20, 25]
 E: efectos adversos [141, 143]
 
-Author: LAURA
+Author: annotator1
 P: Coordinadora de acciones colectivas en todo el país y países aledaños [87, 98]
 P: los Coordinadores de grupos de Efectos Adversos de las Vacunas [15, 25]
 P: sus coordinadores [66, 68]
@@ -19,7 +19,7 @@ P: Coordinadores colectivos [84, 86]
 E: Efectos Adversos de las Vacunas [20, 25]
 E: efectos adversos [141, 143]
 
-Author: MONTSE
+Author: annotator2
 P: los Coordinadores de grupos de Efectos Adversos de las Vacunas [15, 25]
 P: Coordinadores colectivos [84, 86]
 P: sus conocidos que administren o participen activamente en grupos de la temática de efectos adversos [128, 143]

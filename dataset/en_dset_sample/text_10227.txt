@@ -2,13 +2,13 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 V: Rush [76, 77]
 V: the writer [80, 82]
 E: heart issues [41, 43]
 E: the sudden rupture of an aortic aneurysm [94, 101]
 
-Author: francesca
+Author: annotator2
 P: The wife of prominent soccer journalist Mason Rush [69, 77]
 V: Rush [76, 77]
 V: the writer [80, 82]
@@ -24,7 +24,7 @@ E: His death [146, 148]
 E: his death [166, 168]
 E: heart issues [41, 43]
 
-Author: DAVID
+Author: annotator1
 F: the medical examiner ’s office in New York City [114, 123]
 V: Rush [76, 77]
 V: the writer [80, 82]

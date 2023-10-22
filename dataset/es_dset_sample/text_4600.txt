@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: Médico que escribe artículos y graba vídeos a favor de la vacunación de adolescentes [2, 16]
 F: José Veranzas [40, 42]
 F: José Veranzas [22, 24]
@@ -10,7 +10,7 @@ F: El médico [110, 112]
 F: del comité de vacunación de la Sociedad Portuguesa de Pediatría [136, 146]
 V: los niños [172, 174]
 
-Author: LAURA
+Author: annotator2
 F: Pfizer [38, 39]
 F: Pfizer [20, 21]
 F: José Veranzas [40, 42]
@@ -22,7 +22,7 @@ F: El médico [110, 112]
 V: los niños [172, 174]
 V: adolescentes [15, 16]
 
-Author: EMMA
+Author: annotator1
 F: Médico [2, 3]
 F: José Veranzas [40, 42]
 F: José Veranzas [22, 24]

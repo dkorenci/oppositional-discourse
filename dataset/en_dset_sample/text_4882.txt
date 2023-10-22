@@ -2,19 +2,19 @@ The # AlexJonesShow LIVE : Red Alert Emergency Broadcast ! Top Scientists Around
 
 Binary Class: Conspiracy
 
-Author: gold_label
+Author: GOLD
 P: alex - jones [38, 41]
 P: AlexJonesShow [2, 3]
 P: Top Scientists Around The World Confirm [10, 16]
 P: freeworldnews [30, 31]
 
-Author: DAVID
+Author: annotator1
 P: alex - jones [38, 41]
 P: AlexJonesShow [2, 3]
 P: Top Scientists Around The World Confirm [10, 16]
 P: freeworldnews [30, 31]
 
-Author: francesca
+Author: annotator2
 P: Top Scientists Around The World [10, 15]
 P: alex - jones [38, 41]
 P: freeworldnews [30, 31]

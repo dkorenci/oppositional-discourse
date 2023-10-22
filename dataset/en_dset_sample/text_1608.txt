@@ -2,7 +2,7 @@ Jean Carston loses fingers to blood clots from being fully jabbed 10 months prio
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: covidvaccineadversereactions [98, 99]
 P: VaccineInjuries . ca [92, 95]
 V: Jean Carston [0, 2]
@@ -10,7 +10,7 @@ V: Jean Carston , 48 , from Tryon , NC [14, 23]
 E: had emergency surgery on Jan. 28 , 2022 to remove blood clots leaving her with necrosis in her hand that will need to be partially or fully amputated [37, 65]
 E: loses fingers to blood clots from being fully jabbed 10 months prior [2, 14]
 
-Author: DAVID
+Author: annotator1
 P: covidvaccineadversereactions [98, 99]
 P: VaccineInjuries . ca [92, 95]
 V: Jean Carston [0, 2]
@@ -19,7 +19,7 @@ E: she should have had a stroke [84, 90]
 E: had emergency surgery on Jan. 28 , 2022 to remove blood clots leaving her with necrosis in her hand that will need to be partially or fully amputated [37, 65]
 E: loses fingers to blood clots from being fully jabbed [2, 11]
 
-Author: francesca
+Author: annotator2
 F: Doctors [66, 67]
 P: covidvaccineadversereactions [98, 99]
 P: VaccineInjuries [92, 93]

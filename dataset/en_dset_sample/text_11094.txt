@@ -2,16 +2,16 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: BASED IN - N - OUT   Berny Wanninhof , the company 's chief legal and business officer [1, 19]
 
-Author: Julia
+Author: annotator2
 F: any government [91, 93]
 P: the restaurant [28, 30]
 P: BASED IN - N - OUT   Berny Wanninhof , the company 's chief legal and business officer [1, 19]
 P: As a Company , In - N - Out Burger [39, 49]
 
-Author: DAVID
+Author: annotator1
 A: government [92, 93]
 P: Berny Wanninhof , the company 's chief legal and business officer [8, 19]
 

@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: ' Fact - Checker ' Who Declared “ No Evidence ” of " " Mass Formation Psychosis ” [322, 340]
 F: The source AP used to fact - check Dr. Malone [363, 373]
 A: Ministry of Health [462, 465]
@@ -32,7 +32,7 @@ E: will be charged an additional fee for health care services [717, 727]
 O: manipulating human behavior in ways that could allow for this so - called " " mass formation psychosis " " to take shape [377, 400]
 O: to " " Align Human Behavior " " Into COVID - 19 Compliance [349, 362]
 
-Author: DAVID
+Author: annotator1
 F: CNN [734, 735]
 F: ' Fact - Checker ' [322, 327]
 F: The source AP used to fact - check Dr. Malone [363, 373]
@@ -81,7 +81,7 @@ E: will be charged an additional fee for health care services [717, 727]
 O: manipulating human behavior in ways that could allow for this so - called " " mass formation psychosis " " to take shape [377, 400]
 O: to " " Align Human Behavior " " Into COVID - 19 Compliance [349, 362]
 
-Author: francesca
+Author: annotator2
 F: The source AP used to fact - check Dr. Malone [363, 373]
 F: Fauci [259, 260]
 F: ' Fact - Checker ' Who Declared “ No Evidence ” of " " Mass Formation Psychosis ” [322, 340]

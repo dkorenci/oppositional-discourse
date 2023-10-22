@@ -2,15 +2,15 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: la persona que os DISCRIMINA [50, 55]
 
-Author: LAURA
+Author: annotator1
 F: la persona que os DISCRIMINA [50, 55]
 A: del gobierno [30, 32]
 V: NO VACUNADO [172, 174]
 
-Author: MONTSE
+Author: annotator2
 F: un restaurante ( o cualquier otro lugar al que no te dejen acceder ) [106, 120]
 F: la persona que os DISCRIMINA [50, 55]
 

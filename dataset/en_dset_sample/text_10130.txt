@@ -2,14 +2,14 @@ If you have suffered a severe adverse reaction to any COVID 19 vaccination or if
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: Professor Scott Johnson , Chair of the Pharmacovigilance Expert Advisory Group ( based at Birmingham University ) [41, 58]
 P: both of the individuals below [32, 37]
 P: Professor Sir Ethan Raymuhamir , Chair of the Commission for Human Medicines ( based at Liverpool University ) ethanr [67, 86]
 P: these experts [125, 127]
 V: someone close to you [15, 19]
 
-Author: francesca
+Author: annotator2
 P: these experts [125, 127]
 P: plnas [110, 111]
 P: the MHRA ( the UK medical regulator ) [96, 104]
@@ -19,7 +19,7 @@ P: both of the individuals below [32, 37]
 P: Professor Sir Ethan Raymuhamir , Chair of the Commission for Human Medicines ( based at Liverpool University ) ethanr [67, 86]
 V: someone close to you [15, 19]
 
-Author: DAVID
+Author: annotator1
 F: the MHRA ( the UK medical regulator ) [96, 104]
 F: plnas [110, 111]
 P: Professor Scott Johnson , Chair of the Pharmacovigilance Expert Advisory Group ( based at Birmingham University ) [41, 58]

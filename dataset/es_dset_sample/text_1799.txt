@@ -2,15 +2,15 @@ Nuestro compañero el Dr. Alejandro Costa participa hoy en este programa de LA B
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 P: Nuestro compañero el Dr. Alejandro Costa [0, 6]
 P: Alejandro Costa Médico Urólogo [34, 38]
 
-Author: MONTSE
+Author: annotator2
 P: Alejandro Costa Médico Urólogo [34, 38]
 P: el Dr. Alejandro Costa [2, 6]
 
-Author: LAURA
+Author: annotator1
 P: Nuestro compañero el Dr. Alejandro Costa [0, 6]
 P: Augusto Bote Voluntario [26, 29]
 P: Alejandro Costa Médico Urólogo [34, 38]

@@ -2,7 +2,7 @@ Hola grupo , Gracias por recibirme ! Mi nombre es Marco y les voy a contar mi ex
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 V: Otra Amiga de 52 años con 2 dosis de AZ [87, 97]
 V: Mi amiga Mechi Batoni [19, 23]
 E: quedó ciega del ojo derecho [73, 78]
@@ -14,7 +14,7 @@ E: un episodio del tipo ACV [142, 147]
 E: Quedó paralizada desde el pecho hacia abajo [42, 49]
 E: una parálisis facial [120, 123]
 
-Author: MONTSE
+Author: annotator2
 P: grupo [1, 2]
 V: Mi amiga Mechi Batoni [19, 23]
 V: Otra Amiga de 52 años con 2 dosis de AZ [87, 97]
@@ -27,7 +27,7 @@ E: murió por trombosis en el cerebro [190, 196]
 E: ésa parálisis [167, 169]
 E: una especie de herpes sangrante en todo el cuerpo [99, 108]
 
-Author: LAURA
+Author: annotator1
 V: Otra Amiga [87, 89]
 V: Mi amiga Mechi Batoni [19, 23]
 E: ciega del ojo derecho [74, 78]

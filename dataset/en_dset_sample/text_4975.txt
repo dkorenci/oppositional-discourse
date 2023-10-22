@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 F: Health Care Workers [6, 9]
 A: Government [4, 5]
 P: AlexJonesShow [1, 2]
@@ -12,7 +12,7 @@ P: infowarsstore [86, 87]
 P: banthis [31, 32]
 V: Public [19, 20]
 
-Author: DAVID
+Author: annotator1
 F: Health Care Workers [6, 9]
 A: Government [4, 5]
 P: AlexJonesShow [1, 2]
@@ -22,7 +22,7 @@ P: infowarsstore [86, 87]
 P: banthis [31, 32]
 V: Public [19, 20]
 
-Author: francesca
+Author: annotator2
 F: Health Care Workers [6, 9]
 A: Government [4, 5]
 P: banthis [31, 32]

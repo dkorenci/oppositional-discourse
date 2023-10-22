@@ -2,7 +2,7 @@
 
 Binary Class: Critical
 
-Author: gold_label
+Author: GOLD
 V: Martina Luján Pérez una nena de 14 años sana [16, 25]
 V: MI SOBRINA [14, 16]
 V: los niños [227, 229]
@@ -18,7 +18,7 @@ E: se desmayó [62, 64]
 E: puede quedar con muchas secuelas graves , que le están arruinando la vida [177, 190]
 E: varias convulsiones [81, 83]
 
-Author: MONTSE
+Author: annotator2
 A: Pfizer [222, 223]
 A: Pfizer [50, 51]
 V: Martina Luján Pérez una nena de 14 años sana [16, 25]
@@ -37,7 +37,7 @@ E: su cerebro esté inflamado [96, 100]
 E: delirios [114, 115]
 E: su cuerpo no reacciona [116, 120]
 
-Author: LAURA
+Author: annotator1
 V: Martina Luján Pérez [16, 19]
 V: MI SOBRINA [14, 16]
 V: los niños [227, 229]
